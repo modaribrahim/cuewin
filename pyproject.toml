@@ -1,0 +1,73 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cuewin"
+version = "1.0.0"
+description = "Causal analysis of grammatical gender agreement in Modern Standard Arabic (MSA) models"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = [
+    "torch>=2.0",
+    "transformers>=4.40",
+    "pandas>=2.0",
+    "numpy>=1.24",
+    "scipy>=1.10",
+    "matplotlib==3.10.9",
+    "tokenizers>=0.19",
+    "camel_tools>=1.6",
+    "conllu>=6.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7", "ruff>=0.6"]
+
+[project.scripts]
+cuewin-build-lexicon = "cuewin.pipeline.build_lexicon:main"
+cuewin-scan-pairs = "cuewin.pipeline.scan_pairs:main"
+cuewin-build-families = "cuewin.pipeline.build_families:main"
+cuewin-add-arbert = "cuewin.pipeline.add_arbert:main"
+cuewin-behavioral = "cuewin.pipeline.behavioral:main"
+cuewin-freq-baseline = "cuewin.pipeline.freq_baseline:main"
+cuewin-value-zeroing = "cuewin.pipeline.value_zeroing:main"
+cuewin-value-patching = "cuewin.pipeline.value_patching:main"
+cuewin-morpheme-probe = "cuewin.pipeline.morpheme_probe:main"
+cuewin-logit-lens = "cuewin.pipeline.logit_lens:main"
+cuewin-decoder-behavioral = "cuewin.pipeline.decoder_behavioral:main"
+cuewin-intervention = "cuewin.pipeline.intervention:main"
+cuewin-natural-extract = "cuewin.pipeline.natural_extract:main"
+cuewin-natural-families = "cuewin.pipeline.natural_families:main"
+cuewin-natural-behavioral = "cuewin.pipeline.natural_behavioral:main"
+cuewin-natural-patching = "cuewin.pipeline.natural_patching:main"
+cuewin-natural-repair = "cuewin.pipeline.natural_repair:main"
+cuewin-t6-repair = "cuewin.pipeline.t6_repair:main"
+cuewin-stats-report = "cuewin.analysis.stats_report:main"
+cuewin-dose-response = "cuewin.analysis.dose_response:main"
+cuewin-figures-paper = "cuewin.analysis.figures_paper:main"
+cuewin-figures-revision = "cuewin.analysis.figures_revision:main"
+cuewin-figures-logit-lens = "cuewin.analysis.figures_logit_lens:main"
+cuewin-figures-natural = "cuewin.analysis.figures_natural:main"
+cuewin-enc-dec-compare = "cuewin.analysis.enc_dec_compare:main"
+cuewin-error-examples = "cuewin.analysis.error_examples:main"
+
+[tool.setuptools]
+package-dir = { "" = "src" }
+packages = [
+    "cuewin",
+    "cuewin.analysis",
+    "cuewin.pipeline",
+]
+
+[tool.ruff]
+line-length = 100
+# Pyflakes only: unused imports/variables, undefined names, syntax-level bugs.
+# Style advisory rules are intentionally not selected to avoid churn in the
+# ported pipeline code. F821 is a known closure-capture false positive in two
+# run_model() functions; we keep the (correct) closure style.
+lint.select = ["F"]
+lint.ignore = ["F821"]
+
+[tool.ruff.lint.per-file-ignores]
+"__init__.py" = ["F401"]

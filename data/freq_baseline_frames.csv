@@ -1,0 +1,127 @@
+model,verb_frame,gloss,baseline,delta_prior_masc_minus_fem
+arabert,طلب,asked for help,subjless,3.8851099014282227
+arabert,طلب,asked for help,submask,2.367643356323242
+arabert,أخذ,took the medicine,subjless,3.0420126914978027
+arabert,أخذ,took the medicine,submask,1.581995964050293
+arabert,سمع,heard the news,subjless,-2.361992120742798
+arabert,سمع,heard the news,submask,-1.2574799060821533
+arabert,قرأ,read the book,subjless,-1.312643051147461
+arabert,قرأ,read the book,submask,-0.9070777893066406
+arabert,باع,sold the car,subjless,2.9015958309173584
+arabert,باع,sold the car,submask,2.7521281242370605
+arabert,كسر,broke the glass,subjless,4.716160774230957
+arabert,كسر,broke the glass,submask,2.446181297302246
+arabert,خرج,left the house,subjless,1.8229331970214844
+arabert,خرج,left the house,submask,0.44501829147338867
+arabert,وجد,found the key,subjless,0.9787459373474121
+arabert,وجد,found the key,submask,1.0755071640014648
+arabert,دخل,entered the room,subjless,1.0433540344238281
+arabert,دخل,entered the room,submask,1.3948993682861328
+arabert,فتح,opened the door,subjless,2.1284894943237305
+arabert,فتح,opened the door,submask,1.7207393646240234
+arabert,دفع,paid the bill,subjless,4.535599708557129
+arabert,دفع,paid the bill,submask,1.981400489807129
+arabert,حضر,attended the meeting,subjless,3.7340564727783203
+arabert,حضر,attended the meeting,submask,1.9716973304748535
+arabert,شاهد,watched the film,subjless,2.5096588134765625
+arabert,شاهد,watched the film,submask,0.10291814804077148
+arabert,وصل,arrived at the city,subjless,1.9101433753967285
+arabert,وصل,arrived at the city,submask,0.5739383697509766
+arabert,حمل,carried the bag,subjless,5.8060503005981445
+arabert,حمل,carried the bag,submask,4.025417327880859
+arabert,بدأ,started the work,subjless,2.5912771224975586
+arabert,بدأ,started the work,submask,1.0549931526184082
+arabert,قال,told the truth,subjless,-0.25051403045654297
+arabert,قال,told the truth,submask,1.3454246520996094
+arabert,ذهب,went to the market,subjless,1.9438557624816895
+arabert,ذهب,went to the market,submask,0.38007545471191406
+arabert,ترك,left the office,subjless,4.304417133331299
+arabert,ترك,left the office,submask,2.4412074089050293
+arabert,عرف,knew the answer,subjless,0.2410416603088379
+arabert,عرف,knew the answer,submask,-0.22606658935546875
+arabert,كتب,wrote the letter,subjless,-0.2566251754760742
+arabert,كتب,wrote the letter,submask,0.4013524055480957
+camelbert,طلب,asked for help,subjless,4.32418155670166
+camelbert,طلب,asked for help,submask,4.843427658081055
+camelbert,أخذ,took the medicine,subjless,3.139090061187744
+camelbert,أخذ,took the medicine,submask,1.5835779905319214
+camelbert,سمع,heard the news,subjless,-0.6243284344673157
+camelbert,سمع,heard the news,submask,-1.110431432723999
+camelbert,قرأ,read the book,subjless,-1.8765044212341309
+camelbert,قرأ,read the book,submask,-0.922691822052002
+camelbert,باع,sold the car,subjless,2.581341505050659
+camelbert,باع,sold the car,submask,1.83053719997406
+camelbert,كسر,broke the glass,subjless,4.003688812255859
+camelbert,كسر,broke the glass,submask,2.162141799926758
+camelbert,خرج,left the house,subjless,-0.384061336517334
+camelbert,خرج,left the house,submask,0.1836843490600586
+camelbert,وجد,found the key,subjless,3.2350680828094482
+camelbert,وجد,found the key,submask,3.022355079650879
+camelbert,دخل,entered the room,subjless,1.6184144020080566
+camelbert,دخل,entered the room,submask,1.2797808647155762
+camelbert,فتح,opened the door,subjless,1.7341337203979492
+camelbert,فتح,opened the door,submask,1.5793800354003906
+camelbert,دفع,paid the bill,subjless,5.8462605476379395
+camelbert,دفع,paid the bill,submask,2.1779401302337646
+camelbert,حضر,attended the meeting,subjless,2.451627731323242
+camelbert,حضر,attended the meeting,submask,0.6914024353027344
+camelbert,شاهد,watched the film,subjless,2.9043455123901367
+camelbert,شاهد,watched the film,submask,2.1025092601776123
+camelbert,وصل,arrived at the city,subjless,0.7801427841186523
+camelbert,وصل,arrived at the city,submask,0.010563850402832031
+camelbert,حمل,carried the bag,subjless,1.5121243000030518
+camelbert,حمل,carried the bag,submask,1.236982822418213
+camelbert,بدأ,started the work,subjless,0.7339859008789062
+camelbert,بدأ,started the work,submask,1.3900814056396484
+camelbert,قال,told the truth,subjless,-0.4849419593811035
+camelbert,قال,told the truth,submask,0.7927932739257812
+camelbert,ذهب,went to the market,subjless,0.8492641448974609
+camelbert,ذهب,went to the market,submask,0.7738852500915527
+camelbert,ترك,left the office,subjless,4.210705280303955
+camelbert,ترك,left the office,submask,2.615058183670044
+camelbert,عرف,knew the answer,subjless,-1.1225204467773438
+camelbert,عرف,knew the answer,submask,-0.46578121185302734
+camelbert,كتب,wrote the letter,subjless,-0.3009071350097656
+camelbert,كتب,wrote the letter,submask,-1.358555555343628
+arbert,طلب,asked for help,subjless,5.8370866775512695
+arbert,طلب,asked for help,submask,4.82064151763916
+arbert,أخذ,took the medicine,subjless,4.2546491622924805
+arbert,أخذ,took the medicine,submask,2.537101984024048
+arbert,سمع,heard the news,subjless,-0.13784080743789673
+arbert,سمع,heard the news,submask,1.160484790802002
+arbert,قرأ,read the book,subjless,-0.2794603705406189
+arbert,قرأ,read the book,submask,-0.668912410736084
+arbert,باع,sold the car,subjless,1.1471984386444092
+arbert,باع,sold the car,submask,1.8893617391586304
+arbert,كسر,broke the glass,subjless,5.1075544357299805
+arbert,كسر,broke the glass,submask,4.849858283996582
+arbert,خرج,left the house,subjless,-0.27138328552246094
+arbert,خرج,left the house,submask,-0.035859107971191406
+arbert,وجد,found the key,subjless,2.0438754558563232
+arbert,وجد,found the key,submask,1.040297269821167
+arbert,دخل,entered the room,subjless,1.1135988235473633
+arbert,دخل,entered the room,submask,0.5065827369689941
+arbert,فتح,opened the door,subjless,0.20903873443603516
+arbert,فتح,opened the door,submask,1.2889509201049805
+arbert,دفع,paid the bill,subjless,4.972654819488525
+arbert,دفع,paid the bill,submask,2.988727569580078
+arbert,حضر,attended the meeting,subjless,3.2969000339508057
+arbert,حضر,attended the meeting,submask,1.7862944602966309
+arbert,شاهد,watched the film,subjless,3.600512742996216
+arbert,شاهد,watched the film,submask,2.1610052585601807
+arbert,وصل,arrived at the city,subjless,-0.7064723968505859
+arbert,وصل,arrived at the city,submask,0.43626880645751953
+arbert,حمل,carried the bag,subjless,3.2674560546875
+arbert,حمل,carried the bag,submask,2.5138673782348633
+arbert,بدأ,started the work,subjless,1.730666160583496
+arbert,بدأ,started the work,submask,1.3036086559295654
+arbert,قال,told the truth,subjless,-0.1386559009552002
+arbert,قال,told the truth,submask,2.2917354106903076
+arbert,ذهب,went to the market,subjless,1.8013343811035156
+arbert,ذهب,went to the market,submask,1.4629855155944824
+arbert,ترك,left the office,subjless,3.442636489868164
+arbert,ترك,left the office,submask,2.74906849861145
+arbert,عرف,knew the answer,subjless,-0.8350560665130615
+arbert,عرف,knew the answer,submask,0.03372669219970703
+arbert,كتب,wrote the letter,subjless,0.05604076385498047
+arbert,كتب,wrote the letter,submask,2.468024730682373

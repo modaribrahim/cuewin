@@ -1,0 +1,14 @@
+natural families build report
+==============================
+sentences scanned     : 7664
+candidates          : 3771
+verb_pair_ok        : 2844
+subject_tok_ok      : 2678
+too_long            : 16
+assert_fail         : 216
+t6_too_long         : 0
+t6_assert_fail      : 0
+bare_subject        : 604
+T1  items -> ../natural_families_T1.jsonl : 404
+T4  items -> ../natural_families_T4.jsonl : 2042
+T6  items -> ../natural_families_T6.jsonl : 404

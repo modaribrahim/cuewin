@@ -1,0 +1,13 @@
+# Verified set: reproduces all committed CSVs byte-for-byte and all figures
+# byte-for-byte with matplotlib 3.10.9 (the version that generated the
+# committed figures). Other deps have been tested across ranges; only
+# matplotlib changes rendered output.
+torch>=2.0
+transformers>=4.40
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+matplotlib==3.10.9
+tokenizers>=0.19
+camel_tools>=1.6
+conllu>=6.0
