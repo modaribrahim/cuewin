@@ -1,0 +1,421 @@
+{
+ "adjectives": [
+  {
+   "masc": "الكريم",
+   "fem": "الكريمة",
+   "gloss": "generous",
+   "kind": "descriptive"
+  },
+  {
+   "masc": "الغني",
+   "fem": "الغنية",
+   "gloss": "rich",
+   "kind": "descriptive"
+  },
+  {
+   "masc": "القوي",
+   "fem": "القوية",
+   "gloss": "strong",
+   "kind": "descriptive"
+  },
+  {
+   "masc": "الطيب",
+   "fem": "الطيبة",
+   "gloss": "kind",
+   "kind": "descriptive"
+  },
+  {
+   "masc": "الشريف",
+   "fem": "الشريفة",
+   "gloss": "honourable",
+   "kind": "descriptive"
+  },
+  {
+   "masc": "الجاد",
+   "fem": "الجادة",
+   "gloss": "serious",
+   "kind": "descriptive"
+  },
+  {
+   "masc": "الغريب",
+   "fem": "الغريبة",
+   "gloss": "strange",
+   "kind": "descriptive"
+  },
+  {
+   "masc": "القصير",
+   "fem": "القصيرة",
+   "gloss": "short",
+   "kind": "descriptive"
+  },
+  {
+   "masc": "النحيف",
+   "fem": "النحيفة",
+   "gloss": "thin",
+   "kind": "descriptive"
+  },
+  {
+   "masc": "الناجح",
+   "fem": "الناجحة",
+   "gloss": "successful",
+   "kind": "descriptive"
+  },
+  {
+   "masc": "الأنيق",
+   "fem": "الأنيقة",
+   "gloss": "elegant",
+   "kind": "descriptive"
+  },
+  {
+   "masc": "الكسول",
+   "fem": "الكسولة",
+   "gloss": "lazy",
+   "kind": "descriptive"
+  },
+  {
+   "masc": "المصري",
+   "fem": "المصرية",
+   "gloss": "Egyptian",
+   "kind": "nisba"
+  },
+  {
+   "masc": "السوري",
+   "fem": "السورية",
+   "gloss": "Syrian",
+   "kind": "nisba"
+  },
+  {
+   "masc": "اللبناني",
+   "fem": "اللبنانية",
+   "gloss": "Lebanese",
+   "kind": "nisba"
+  },
+  {
+   "masc": "الأردني",
+   "fem": "الأردنية",
+   "gloss": "Jordanian",
+   "kind": "nisba"
+  },
+  {
+   "masc": "المغربي",
+   "fem": "المغربية",
+   "gloss": "Moroccan",
+   "kind": "nisba"
+  },
+  {
+   "masc": "العراقي",
+   "fem": "العراقية",
+   "gloss": "Iraqi",
+   "kind": "nisba"
+  },
+  {
+   "masc": "التونسي",
+   "fem": "التونسية",
+   "gloss": "Tunisian",
+   "kind": "nisba"
+  },
+  {
+   "masc": "اليمني",
+   "fem": "اليمنية",
+   "gloss": "Yemeni",
+   "kind": "nisba"
+  },
+  {
+   "masc": "الأمريكي",
+   "fem": "الأمريكية",
+   "gloss": "American",
+   "kind": "nisba"
+  },
+  {
+   "masc": "الفرنسي",
+   "fem": "الفرنسية",
+   "gloss": "French",
+   "kind": "nisba"
+  },
+  {
+   "masc": "الألماني",
+   "fem": "الألمانية",
+   "gloss": "German",
+   "kind": "nisba"
+  },
+  {
+   "masc": "التركي",
+   "fem": "التركية",
+   "gloss": "Turkish",
+   "kind": "nisba"
+  }
+ ],
+ "adjectives_dropped": [],
+ "attractors": [
+  {
+   "masc": "المحرر",
+   "fem": "المحررة",
+   "gloss": "editor",
+   "kind": "noun",
+   "new": true
+  },
+  {
+   "masc": "المترجم",
+   "fem": "المترجمة",
+   "gloss": "translator",
+   "kind": "noun",
+   "new": true
+  },
+  {
+   "masc": "المصور",
+   "fem": "المصورة",
+   "gloss": "photographer",
+   "kind": "noun",
+   "new": true
+  },
+  {
+   "masc": "المضيف",
+   "fem": "المضيفة",
+   "gloss": "host",
+   "kind": "noun",
+   "new": true
+  },
+  {
+   "masc": "الشرطي",
+   "fem": "الشرطية",
+   "gloss": "police officer",
+   "kind": "noun",
+   "new": true
+  },
+  {
+   "masc": "المبرمج",
+   "fem": "المبرمجة",
+   "gloss": "programmer",
+   "kind": "noun",
+   "new": true
+  },
+  {
+   "masc": "الممثل",
+   "fem": "الممثلة",
+   "gloss": "actor",
+   "kind": "noun",
+   "new": true
+  },
+  {
+   "masc": "المطرب",
+   "fem": "المطربة",
+   "gloss": "singer",
+   "kind": "noun",
+   "new": true
+  },
+  {
+   "masc": "الإعلامي",
+   "fem": "الإعلامية",
+   "gloss": "media person",
+   "kind": "noun",
+   "new": true
+  },
+  {
+   "masc": "المتطوع",
+   "fem": "المتطوعة",
+   "gloss": "volunteer",
+   "kind": "noun",
+   "new": true
+  },
+  {
+   "masc": "المتحدث",
+   "fem": "المتحدثة",
+   "gloss": "spokesperson",
+   "kind": "noun",
+   "new": true
+  },
+  {
+   "masc": "المتخصص",
+   "fem": "المتخصصة",
+   "gloss": "specialist",
+   "kind": "noun",
+   "new": true
+  },
+  {
+   "masc": "المسؤول",
+   "fem": "المسؤولة",
+   "gloss": "official",
+   "kind": "noun",
+   "new": true
+  },
+  {
+   "masc": "المستخدم",
+   "fem": "المستخدمة",
+   "gloss": "user",
+   "kind": "noun",
+   "new": true
+  },
+  {
+   "masc": "المهاجر",
+   "fem": "المهاجرة",
+   "gloss": "migrant",
+   "kind": "noun",
+   "new": true
+  },
+  {
+   "masc": "المفوض",
+   "fem": "المفوضة",
+   "gloss": "commissioner",
+   "kind": "noun",
+   "new": true
+  },
+  {
+   "masc": "المؤيد",
+   "fem": "المؤيدة",
+   "gloss": "supporter",
+   "kind": "noun",
+   "new": true
+  },
+  {
+   "masc": "الملاكم",
+   "fem": "الملاكمة",
+   "gloss": "boxer",
+   "kind": "noun",
+   "new": true
+  },
+  {
+   "masc": "المهرج",
+   "fem": "المهرجة",
+   "gloss": "clown",
+   "kind": "noun",
+   "new": true
+  },
+  {
+   "masc": "الرئيس",
+   "fem": "الرئيسة",
+   "gloss": "president",
+   "kind": "noun",
+   "new": true
+  },
+  {
+   "masc": "الأمير",
+   "fem": "الأميرة",
+   "gloss": "prince/princess",
+   "kind": "noun",
+   "new": true
+  },
+  {
+   "masc": "الملك",
+   "fem": "الملكة",
+   "gloss": "king/queen",
+   "kind": "noun",
+   "new": true
+  },
+  {
+   "masc": "علي",
+   "fem": "زينب",
+   "gloss": "Ali/Zainab",
+   "kind": "name",
+   "new": true
+  },
+  {
+   "masc": "عمر",
+   "fem": "سارة",
+   "gloss": "Omar/Sara",
+   "kind": "name",
+   "new": true
+  },
+  {
+   "masc": "حسن",
+   "fem": "هدى",
+   "gloss": "Hassan/Huda",
+   "kind": "name",
+   "new": true
+  },
+  {
+   "masc": "إبراهيم",
+   "fem": "عائشة",
+   "gloss": "Ibrahim/Aisha",
+   "kind": "name",
+   "new": true
+  },
+  {
+   "masc": "سعيد",
+   "fem": "سلمى",
+   "gloss": "Saeed/Salma",
+   "kind": "name",
+   "new": true
+  },
+  {
+   "masc": "يوسف",
+   "fem": "هند",
+   "gloss": "Youssef/Hind",
+   "kind": "name",
+   "new": true
+  },
+  {
+   "masc": "كريم",
+   "fem": "رنا",
+   "gloss": "Karim/Rana",
+   "kind": "name",
+   "new": true
+  }
+ ],
+ "construct_subjects": [
+  {
+   "masc": "مترجم",
+   "fem": "مترجمة",
+   "gloss": "translator"
+  },
+  {
+   "masc": "مصور",
+   "fem": "مصورة",
+   "gloss": "photographer"
+  },
+  {
+   "masc": "ممثل",
+   "fem": "ممثلة",
+   "gloss": "actor"
+  },
+  {
+   "masc": "مطرب",
+   "fem": "مطربة",
+   "gloss": "singer"
+  },
+  {
+   "masc": "إعلامي",
+   "fem": "إعلامية",
+   "gloss": "media person"
+  },
+  {
+   "masc": "متخصص",
+   "fem": "متخصصة",
+   "gloss": "specialist"
+  },
+  {
+   "masc": "مسؤول",
+   "fem": "مسؤولة",
+   "gloss": "official"
+  },
+  {
+   "masc": "ملاكم",
+   "fem": "ملاكمة",
+   "gloss": "boxer"
+  },
+  {
+   "masc": "مهرج",
+   "fem": "مهرجة",
+   "gloss": "clown"
+  },
+  {
+   "masc": "صحفي",
+   "fem": "صحفية",
+   "gloss": "journalist"
+  },
+  {
+   "masc": "رئيس",
+   "fem": "رئيسة",
+   "gloss": "president"
+  },
+  {
+   "masc": "طفل",
+   "fem": "طفلة",
+   "gloss": "child"
+  },
+  {
+   "masc": "ملك",
+   "fem": "ملكة",
+   "gloss": "king/queen"
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+== A. Repair ceiling: input flip vs. gender-only patch (error items, %) ==
+  main arabert   T3 n=682: input flip 88.1 | patch all layers 88.0 | patch L8-11 64.7 (0.73 of input flip)
+  main arabert   T6 n=598: input flip 60.0 | patch all layers 60.5 | patch L8-11 47.8 (0.80 of input flip)
+  main camelbert T3 n=569: input flip 62.0 | patch all layers 64.9 | patch L8-11 49.6 (0.80 of input flip)
+  main camelbert T6 n=516: input flip 59.5 | patch all layers 59.5 | patch L8-11 45.3 (0.76 of input flip)
+  main arbert    T3 n=633: input flip 79.9 | patch all layers 81.8 | patch L8-11 70.0 (0.88 of input flip)
+  main arbert    T6 n=470: input flip 67.4 | patch all layers 69.6 | patch L8-11 58.5 (0.87 of input flip)
+  main marbert   T3 n=459: input flip 79.3 | patch all layers 81.3 | patch L8-11 47.3 (0.60 of input flip)
+  main marbert   T6 n=465: input flip 66.2 | patch all layers 65.6 | patch L8-11 43.4 (0.66 of input flip)
+  rep  arabert   T3 n=746: input flip 91.7 | patch all layers 91.4 | patch L8-11 59.0 (0.64 of input flip)
+  rep  arabert   T6 n=472: input flip 52.8 | patch all layers 54.9 | patch L8-11 47.0 (0.89 of input flip)
+  rep  arabert   T7 n=207: input flip 67.1 | patch all layers 68.6 | patch L8-11 58.5 (0.87 of input flip)
+  rep  camelbert T3 n=606: input flip 65.3 | patch all layers 66.8 | patch L8-11 53.3 (0.82 of input flip)
+  rep  camelbert T6 n=418: input flip 51.0 | patch all layers 51.7 | patch L8-11 45.7 (0.90 of input flip)
+  rep  camelbert T7 n=370: input flip 56.5 | patch all layers 57.0 | patch L8-11 52.2 (0.92 of input flip)
+  rep  arbert    T3 n=678: input flip 82.7 | patch all layers 82.6 | patch L8-11 64.5 (0.78 of input flip)
+  rep  arbert    T6 n=362: input flip 59.1 | patch all layers 61.6 | patch L8-11 56.1 (0.95 of input flip)
+  rep  arbert    T7 n=230: input flip 65.2 | patch all layers 65.7 | patch L8-11 57.4 (0.88 of input flip)
+  rep  marbert   T3 n=466: input flip 82.2 | patch all layers 82.8 | patch L8-11 48.7 (0.59 of input flip)
+  rep  marbert   T6 n=286: input flip 56.3 | patch all layers 55.2 | patch L8-11 37.4 (0.66 of input flip)
+  rep  marbert   T7 n=137: input flip 61.3 | patch all layers 63.5 | patch L8-11 40.9 (0.67 of input flip)
+  treebank arabert   n=36: input flip 33.3
+  treebank camelbert n=38: input flip 31.6
+  treebank arbert    n=42: input flip 23.8
+  treebank marbert   n=93: input flip 45.2
+
+== B. T7 vs. T6 accuracy, held-out set, matched subjects and attractors (%) ==
+  arabert   all items T6 54.4 T7 74.6 | matched (10 subjects, 25 attractors, 144 cells): T6 55.2 T7 76.6
+  camelbert all items T6 59.6 T7 54.6 | matched (10 subjects, 25 attractors, 144 cells): T6 61.8 T7 56.3
+  arbert    all items T6 60.2 T7 70.3 | matched (9 subjects, 23 attractors, 121 cells): T6 64.2 T7 71.5
+  marbert   all items T6 56.8 T7 77.3 | matched (9 subjects, 19 attractors, 103 cells): T6 52.4 T7 79.9
+
+== C. Hidden-state crossing layers by exclusion threshold (Eq. 4) ==
+  arabert   threshold 0.25: T1 n=1190 subject<0.5 L8 [MASK]>=0.5 L8 | T4 n=1156 subject<0.5 L8 [MASK]>=0.5 L8 | T6 n=1097 subject<0.5 L9 [MASK]>=0.5 L9
+  arabert   threshold 0.50: T1 n=1183 subject<0.5 L8 [MASK]>=0.5 L8 | T4 n=1122 subject<0.5 L8 [MASK]>=0.5 L8 | T6 n=992 subject<0.5 L9 [MASK]>=0.5 L9
+  arabert   threshold 1.00: T1 n=1164 subject<0.5 L8 [MASK]>=0.5 L8 | T4 n=1035 subject<0.5 L8 [MASK]>=0.5 L8 | T6 n=761 subject<0.5 L9 [MASK]>=0.5 L9
+  camelbert threshold 0.25: T1 n=1187 subject<0.5 L8 [MASK]>=0.5 L9 | T4 n=1154 subject<0.5 L8 [MASK]>=0.5 L8 | T6 n=1112 subject<0.5 L8 [MASK]>=0.5 L9
+  camelbert threshold 0.50: T1 n=1175 subject<0.5 L8 [MASK]>=0.5 L9 | T4 n=1120 subject<0.5 L8 [MASK]>=0.5 L8 | T6 n=1007 subject<0.5 L8 [MASK]>=0.5 L9
+  camelbert threshold 1.00: T1 n=1123 subject<0.5 L8 [MASK]>=0.5 L9 | T4 n=1028 subject<0.5 L7 [MASK]>=0.5 L8 | T6 n=801 subject<0.5 L8 [MASK]>=0.5 L9
+  arbert    threshold 0.25: T1 n=1124 subject<0.5 L8 [MASK]>=0.5 L9 | T4 n=1110 subject<0.5 L8 [MASK]>=0.5 L8 | T6 n=1083 subject<0.5 L8 [MASK]>=0.5 L10
+  arbert    threshold 0.50: T1 n=1108 subject<0.5 L8 [MASK]>=0.5 L9 | T4 n=1096 subject<0.5 L8 [MASK]>=0.5 L8 | T6 n=1022 subject<0.5 L8 [MASK]>=0.5 L10
+  arbert    threshold 1.00: T1 n=1073 subject<0.5 L8 [MASK]>=0.5 L9 | T4 n=1034 subject<0.5 L8 [MASK]>=0.5 L8 | T6 n=858 subject<0.5 L8 [MASK]>=0.5 L10
+  marbert   threshold 0.25: T1 n=1001 subject<0.5 L7 [MASK]>=0.5 L7 | T4 n=943 subject<0.5 L6 [MASK]>=0.5 L7 | T6 n=944 subject<0.5 L8 [MASK]>=0.5 L8
+  marbert   threshold 0.50: T1 n=993 subject<0.5 L7 [MASK]>=0.5 L7 | T4 n=887 subject<0.5 L6 [MASK]>=0.5 L7 | T6 n=872 subject<0.5 L8 [MASK]>=0.5 L8
+  marbert   threshold 1.00: T1 n=983 subject<0.5 L7 [MASK]>=0.5 L7 | T4 n=747 subject<0.5 L6 [MASK]>=0.5 L6 | T6 n=683 subject<0.5 L8 [MASK]>=0.5 L8
+
+== D. Treebank attractor accuracy (%) ==
+  arabert   n=408 errors=36 accuracy 91.2
+  camelbert n=408 errors=38 accuracy 90.7
+  arbert    n=408 errors=42 accuracy 89.7
+  marbert   n=408 errors=93 accuracy 77.2
+

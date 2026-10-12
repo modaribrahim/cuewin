@@ -1,0 +1,7 @@
+model,condition,cue,n_wrong,n_correct,repair_rate_L5-11,control_rate_L0-3,mean_dd_neut,breakage_rate
+arabert,T6,attractor,598,602,0.441,0.117,1.391,0.007
+arabert,T3,adjective,682,518,0.812,0.232,3.195,0.002
+arbert,T6,attractor,470,674,0.498,0.189,1.272,0.037
+arbert,T3,adjective,633,498,0.774,0.1,2.989,0.012
+camelbert,T6,attractor,516,684,0.374,0.138,1.009,0.013
+camelbert,T3,adjective,569,631,0.529,0.16,1.721,0.008

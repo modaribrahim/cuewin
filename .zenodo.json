@@ -1,0 +1,15 @@
+{
+  "title": "CueWIN: code and data for \"Which Cue Wins? Causal Evidence on Gender Agreement in Arabic BERT Encoders\"",
+  "upload_type": "software",
+  "version": "v1",
+  "description": "Code, lexicon, per-item results and reproduction scripts for the paper \"Which Cue Wins? Causal Evidence on Gender Agreement in Arabic BERT Encoders\" (submitted to IEEE Access). Value, hidden-state and head-level patching, value zeroing, causal repair, cumulative-window and held-out cue-set analyses for AraBERTv02, CAMeLBERT-MSA, ARBERT and MARBERT, with a treebank (UD Arabic-PADT) check.",
+  "creators": [
+    {
+      "name": "Ibrahim, Modar",
+      "affiliation": "Manara University",
+      "orcid": "0009-0009-4042-6974"
+    }
+  ],
+  "license": "MIT",
+  "keywords": ["Arabic", "grammatical gender", "agreement", "activation patching", "interpretability", "BERT"]
+}

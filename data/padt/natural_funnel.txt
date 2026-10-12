@@ -1,0 +1,6 @@
+F0 total sentences            : 7664
+F1 nsubj past-3sg-verb sing   : 3771
+F2 verb pair both genders     : 3206
+F3 verb agrees with subject   : 3206
+F4 subject real token both    : 3015
+F5 + lexicon subject (patch)  : 200

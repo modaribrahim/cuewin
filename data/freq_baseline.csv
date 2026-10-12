@@ -1,0 +1,7 @@
+model,baseline,mean_delta_prior(masc-fem),acc_masc_raw,acc_fem_raw,gap_raw,acc_masc_corr,acc_fem_corr,gap_corr
+arabert,subjless,2.144,95.2,82.7,12.5,71.3,95.0,-23.7
+arabert,submask,1.253,95.2,82.7,12.5,92.7,92.8,-0.2
+camelbert,subjless,1.773,95.8,60.2,35.7,75.7,89.8,-14.2
+camelbert,submask,1.197,95.8,60.2,35.7,89.8,84.8,5.0
+arbert,subjless,1.951,98.2,74.3,24.0,69.4,96.7,-27.3
+arbert,submask,1.855,98.2,74.3,24.0,80.7,94.9,-14.2

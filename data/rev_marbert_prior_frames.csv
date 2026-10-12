@@ -1,0 +1,43 @@
+model,verb_frame,gloss,baseline,delta_prior_masc_minus_fem
+marbert,طلب,asked for help,subjless,3.3383331298828125
+marbert,طلب,asked for help,submask,4.98372745513916
+marbert,سمع,heard the news,subjless,-3.6135592460632324
+marbert,سمع,heard the news,submask,-2.344900131225586
+marbert,قرأ,read the book,subjless,-2.4606733322143555
+marbert,قرأ,read the book,submask,-1.7815208435058594
+marbert,باع,sold the car,subjless,2.2808172702789307
+marbert,باع,sold the car,submask,0.7961225509643555
+marbert,كسر,broke the glass,subjless,1.2259349822998047
+marbert,كسر,broke the glass,submask,2.5798139572143555
+marbert,خرج,left the house,subjless,-1.8904085159301758
+marbert,خرج,left the house,submask,-1.1796903610229492
+marbert,دخل,entered the room,subjless,-0.46251535415649414
+marbert,دخل,entered the room,submask,0.6849360466003418
+marbert,فتح,opened the door,subjless,1.5523638725280762
+marbert,فتح,opened the door,submask,1.2528514862060547
+marbert,دفع,paid the bill,subjless,1.3268358707427979
+marbert,دفع,paid the bill,submask,3.138223171234131
+marbert,أخذ,took the medicine,subjless,2.4915618896484375
+marbert,أخذ,took the medicine,submask,2.600343704223633
+marbert,حضر,attended the meeting,subjless,1.0257568359375
+marbert,حضر,attended the meeting,submask,-1.2008190155029297
+marbert,شاهد,watched the film,subjless,-0.43705523014068604
+marbert,شاهد,watched the film,submask,0.522852897644043
+marbert,وجد,found the key,subjless,-0.0005279779434204102
+marbert,وجد,found the key,submask,0.9442262649536133
+marbert,وصل,arrived at the city,subjless,-2.047224521636963
+marbert,وصل,arrived at the city,submask,-1.1580405235290527
+marbert,حمل,carried the bag,subjless,4.884784698486328
+marbert,حمل,carried the bag,submask,5.647331237792969
+marbert,بدأ,started the work,subjless,1.5788993835449219
+marbert,بدأ,started the work,submask,0.8224735260009766
+marbert,قال,told the truth,subjless,0.0628361701965332
+marbert,قال,told the truth,submask,-0.3269510269165039
+marbert,ذهب,went to the market,subjless,-0.028453826904296875
+marbert,ذهب,went to the market,submask,0.9205446243286133
+marbert,ترك,left the office,subjless,-0.6102564334869385
+marbert,ترك,left the office,submask,2.0432944297790527
+marbert,عرف,knew the answer,subjless,-3.203822135925293
+marbert,عرف,knew the answer,submask,-2.40055513381958
+marbert,كتب,wrote the letter,subjless,-2.173563003540039
+marbert,كتب,wrote the letter,submask,-1.211709976196289

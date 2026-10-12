@@ -1,0 +1,118 @@
+cueread main arabert T6 n=598 H3/H7/H9 gap 0.88/0.66/0.21; S0/S4/S8 repair 60.5/56.5/47.8 gap 1.01/0.91/0.69; S4-S0 -4.0 [-10.2,+1.3]; S8-S0 -12.7 [-22.8,-4.3]
+cueread main arabert T3 n=682 H3/H7/H9 gap 0.99/0.50/0.08; S0/S4/S8 repair 88.0/85.8/64.7 gap 1.02/1.00/0.55; S4-S0 -2.2 [-6.7,+0.5]; S8-S0 -23.3 [-35.4,-12.8]
+cueread main camelbert T6 n=516 H3/H7/H9 gap 0.89/0.65/0.24; S0/S4/S8 repair 59.5/55.2/45.3 gap 1.01/0.92/0.68; S4-S0 -4.3 [-11.4,+1.5]; S8-S0 -14.1 [-26.2,-3.3]
+cueread main camelbert T3 n=569 H3/H7/H9 gap 0.97/0.66/0.17; S0/S4/S8 repair 64.9/61.9/49.6 gap 1.04/1.03/0.75; S4-S0 -3.0 [-9.9,+2.0]; S8-S0 -15.3 [-26.1,-6.2]
+cueread main arbert T6 n=470 H3/H7/H9 gap 0.92/0.73/0.29; S0/S4/S8 repair 69.6/65.3/58.5 gap 1.02/0.95/0.77; S4-S0 -4.3 [-11.9,+1.5]; S8-S0 -11.1 [-21.1,-2.0]
+cueread main arbert T3 n=633 H3/H7/H9 gap 0.98/0.59/0.13; S0/S4/S8 repair 81.8/79.3/70.0 gap 1.03/1.00/0.67; S4-S0 -2.5 [-8.9,+2.2]; S8-S0 -11.8 [-21.8,-3.5]
+cueread main marbert T6 n=465 H3/H7/H9 gap 0.88/0.48/0.03; S0/S4/S8 repair 65.6/61.7/43.4 gap 1.02/0.92/0.52; S4-S0 -3.9 [-10.7,+1.0]; S8-S0 -22.2 [-34.8,-10.9]
+cueread main marbert T3 n=459 H3/H7/H9 gap 0.97/0.36/0.00; S0/S4/S8 repair 81.3/78.9/47.3 gap 1.04/0.99/0.42; S4-S0 -2.4 [-7.7,+0.5]; S8-S0 -34.0 [-47.2,-20.8]
+cueread rep arabert T6 n=472 H3/H7/H9 gap 0.93/0.72/0.24; S0/S4/S8 repair 54.9/52.8/47.0 gap 1.02/0.97/0.73; S4-S0 -2.1 [-10.2,+4.9]; S8-S0 -7.8 [-16.7,+0.2]
+cueread rep arabert T7 n=207 H3/H7/H9 gap 0.92/0.62/0.18; S0/S4/S8 repair 68.6/68.6/58.5 gap 1.03/0.94/0.66; S4-S0 +0.0 [-12.0,+11.5]; S8-S0 -10.1 [-28.0,+4.9]
+cueread rep arabert T3 n=746 H3/H7/H9 gap 0.97/0.41/0.07; S0/S4/S8 repair 91.4/92.0/59.0 gap 1.01/0.99/0.46; S4-S0 +0.5 [-1.6,+3.2]; S8-S0 -32.4 [-45.4,-20.2]
+cueread rep camelbert T6 n=418 H3/H7/H9 gap 0.92/0.77/0.31; S0/S4/S8 repair 51.7/50.2/45.7 gap 1.01/0.96/0.80; S4-S0 -1.4 [-9.2,+5.5]; S8-S0 -6.0 [-16.8,+2.9]
+cueread rep camelbert T7 n=370 H3/H7/H9 gap 0.95/0.83/0.26; S0/S4/S8 repair 57.0/54.9/52.2 gap 1.00/0.96/0.84; S4-S0 -2.2 [-8.8,+4.4]; S8-S0 -4.9 [-14.2,+4.1]
+cueread rep camelbert T3 n=606 H3/H7/H9 gap 0.96/0.64/0.17; S0/S4/S8 repair 66.8/65.5/53.3 gap 1.03/1.01/0.71; S4-S0 -1.3 [-6.2,+2.7]; S8-S0 -13.5 [-23.0,-5.7]
+cueread rep arbert T6 n=362 H3/H7/H9 gap 0.94/0.78/0.32; S0/S4/S8 repair 61.6/60.5/56.1 gap 1.03/0.98/0.81; S4-S0 -1.1 [-8.6,+5.6]; S8-S0 -5.5 [-16.9,+3.7]
+cueread rep arbert T7 n=230 H3/H7/H9 gap 0.90/0.71/0.33; S0/S4/S8 repair 65.7/62.2/57.4 gap 0.98/0.92/0.76; S4-S0 -3.5 [-13.6,+4.4]; S8-S0 -8.3 [-22.1,+1.2]
+cueread rep arbert T3 n=678 H3/H7/H9 gap 0.96/0.52/0.11; S0/S4/S8 repair 82.6/81.3/64.5 gap 1.02/0.98/0.59; S4-S0 -1.3 [-5.7,+1.6]; S8-S0 -18.1 [-29.0,-8.7]
+cueread rep marbert T6 n=286 H3/H7/H9 gap 0.90/0.47/0.04; S0/S4/S8 repair 55.2/51.7/37.4 gap 1.03/0.95/0.52; S4-S0 -3.5 [-12.4,+3.7]; S8-S0 -17.8 [-30.8,-7.4]
+cueread rep marbert T7 n=137 H3/H7/H9 gap 0.83/0.40/0.02; S0/S4/S8 repair 63.5/56.9/40.9 gap 1.06/0.90/0.47; S4-S0 -6.6 [-21.4,+4.7]; S8-S0 -22.6 [-45.8,-3.6]
+cueread rep marbert T3 n=466 H3/H7/H9 gap 0.95/0.33/0.00; S0/S4/S8 repair 82.8/82.2/48.7 gap 1.02/0.98/0.40; S4-S0 -0.6 [-4.9,+2.5]; S8-S0 -34.1 [-48.8,-19.9]
+rep arabert T1 main acc 88.9 n=1200
+rep arabert T2 n=1200 acc 95.4; by gold m 97.5; f 93.3
+rep arabert T3 n=1200 cue items=24 acc 37.8; late -0.403 [-0.487,-0.329]; repair 39.9/60.5/59.0 (n_err=746); late-early +19.0 [+2.4,+35.8]; break 0.0
+rep arabert T6 n=1035 cue items=25 acc 54.4; late -0.260 [-0.311,-0.214]; repair 13.8/15.7/47.0 (n_err=472); late-early +33.3 [+18.1,+50.0]; break 0.0
+rep arabert T7 n=815 cue items=33 acc 74.6; late -0.217 [-0.292,-0.157]; repair 27.1/24.6/58.5 (n_err=207); late-early +31.4 [+6.7,+54.1]; break 0.2
+rep arabert T3 descriptive adjectives only: n=599 acc 37.2; late -0.482 [-0.586,-0.387]; repair L0-3/L8-11 42.0/71.5 (n_err=376); late-early +29.5 [+4.2,+54.7]
+rep camelbert T1 main acc 78.0 n=1200
+rep camelbert T2 n=1200 acc 83.1; by gold m 97.3; f 68.8
+rep camelbert T3 n=1200 cue items=24 acc 49.5; late -0.309 [-0.390,-0.238]; repair 13.4/35.0/53.3 (n_err=606); late-early +39.9 [+25.6,+55.6]; break 0.0
+rep camelbert T6 n=1035 cue items=25 acc 59.6; late -0.241 [-0.283,-0.204]; repair 16.5/15.1/45.7 (n_err=418); late-early +29.2 [+15.2,+45.5]; break 0.2
+rep camelbert T7 n=815 cue items=33 acc 54.6; late -0.333 [-0.405,-0.272]; repair 14.6/15.1/52.2 (n_err=370); late-early +37.6 [+21.4,+54.8]; break 0.0
+rep camelbert T3 descriptive adjectives only: n=599 acc 48.9; late -0.318 [-0.430,-0.221]; repair L0-3/L8-11 20.6/52.3 (n_err=306); late-early +31.7 [+16.1,+49.8]
+rep arbert T1 main acc 86.3 n=1142
+rep arbert T2 n=1132 acc 88.7; by gold m 99.6; f 77.7
+rep arbert T3 n=1129 cue items=24 acc 39.9; late -0.457 [-0.581,-0.349]; repair 14.5/39.4/64.5 (n_err=678); late-early +50.0 [+36.5,+63.7]; break 0.0
+rep arbert T6 n=910 cue items=23 acc 60.2; late -0.270 [-0.334,-0.212]; repair 13.3/13.5/56.1 (n_err=362); late-early +42.8 [+25.4,+60.8]; break 0.2
+rep arbert T7 n=774 cue items=31 acc 70.3; late -0.306 [-0.393,-0.227]; repair 18.3/15.7/57.4 (n_err=230); late-early +39.1 [+18.5,+60.1]; break 0.4
+rep arbert T3 descriptive adjectives only: n=567 acc 46.4; late -0.489 [-0.658,-0.346]; repair L0-3/L8-11 19.7/69.7 (n_err=304); late-early +50.0 [+29.4,+70.8]
+rep marbert T1 main acc 89.4 n=1003
+rep marbert T2 n=954 acc 92.5; by gold m 97.3; f 87.6
+rep marbert T3 n=953 cue items=24 acc 51.1; late -0.280 [-0.335,-0.233]; repair 41.0/74.0/48.7 (n_err=466); late-early +7.7 [-7.4,+22.8]; break 0.0
+rep marbert T6 n=662 cue items=19 acc 56.8; late -0.174 [-0.215,-0.135]; repair 20.3/33.6/37.4 (n_err=286); late-early +17.1 [+1.9,+35.9]; break 0.5
+rep marbert T7 n=603 cue items=27 acc 77.3; late -0.168 [-0.213,-0.130]; repair 30.7/40.1/40.9 (n_err=137); late-early +10.2 [-9.8,+33.7]; break 0.2
+rep marbert T3 descriptive adjectives only: n=473 acc 51.2; late -0.299 [-0.374,-0.236]; repair L0-3/L8-11 39.4/56.7 (n_err=231); late-early +17.3 [-1.1,+37.9]
+nat arabert: n_err 36; patch 5.6 [0.0, 13.9] / 2.8 [0.0, 8.3] / 27.8 [13.9, 44.4]; late-early +22.2 [+5.6,+38.9]; zero 0-3/8-11 33.3/22.2; gap all items 8-11 treebank 0.78 template 0.68
+nat camelbert: n_err 38; patch 15.8 [5.3, 28.9] / 15.8 [5.3, 28.9] / 31.6 [18.4, 47.4]; late-early +15.8 [+2.6,+28.9]; zero 0-3/8-11 36.8/39.5; gap all items 8-11 treebank 1.01 template 0.78
+nat arbert: n_err 42; patch 0.0 [0.0, 0.0] / 0.0 [0.0, 0.0] / 21.4 [9.5, 35.7]; late-early +21.4 [+9.5,+33.3]; zero 0-3/8-11 14.3/42.9; gap all items 8-11 treebank 0.90 template 0.81
+nat marbert: n_err 93; patch 14.0 [7.5, 21.5] / 22.6 [14.0, 31.2] / 12.9 [6.5, 20.4]; late-early -1.1 [-8.6,+6.5]; zero 0-3/8-11 17.2/24.7; gap all items 8-11 treebank 0.33 template 0.58
+names arabert main T6 noun: acc 49.2 (n=726); repair 52.8 (n_err=369)
+names arabert main T6 name: acc 51.7 (n=474); repair 39.7 (n_err=229)
+names arabert held-out T6 noun: acc 53.9 (n=742); repair 48.0 (n_err=342)
+names arabert held-out T6 name: acc 55.6 (n=293); repair 44.6 (n_err=130)
+names arabert held-out T7 noun: acc 76.3 (n=579); repair 65.7 (n_err=137)
+names arabert held-out T7 name: acc 70.3 (n=236); repair 44.3 (n_err=70)
+names camelbert main T6 noun: acc 58.4 (n=726); repair 54.6 (n_err=302)
+names camelbert main T6 name: acc 54.9 (n=474); repair 32.2 (n_err=214)
+names camelbert held-out T6 noun: acc 59.6 (n=742); repair 49.7 (n_err=300)
+names camelbert held-out T6 name: acc 59.7 (n=293); repair 35.6 (n_err=118)
+names camelbert held-out T7 noun: acc 57.2 (n=579); repair 58.1 (n_err=248)
+names camelbert held-out T7 name: acc 48.3 (n=236); repair 40.2 (n_err=122)
+names arbert main T6 noun: acc 59.9 (n=684); repair 65.3 (n_err=274)
+names arbert main T6 name: acc 57.4 (n=460); repair 49.0 (n_err=196)
+names arbert held-out T6 noun: acc 62.0 (n=632); repair 57.9 (n_err=240)
+names arbert held-out T6 name: acc 56.1 (n=278); repair 52.5 (n_err=122)
+names arbert held-out T7 noun: acc 77.1 (n=538); repair 58.5 (n_err=123)
+names arbert held-out T7 name: acc 54.7 (n=236); repair 56.1 (n_err=107)
+names marbert main T6 noun: acc 51.4 (n=603); repair 44.4 (n_err=293)
+names marbert main T6 name: acc 57.4 (n=404); repair 41.9 (n_err=172)
+names marbert held-out T6 noun: acc 56.3 (n=414); repair 38.1 (n_err=181)
+names marbert held-out T6 name: acc 57.7 (n=248); repair 36.2 (n_err=105)
+names marbert held-out T7 noun: acc 80.7 (n=388); repair 48.0 (n_err=75)
+names marbert held-out T7 name: acc 71.2 (n=215); repair 32.3 (n_err=62)
+heads arabert held-out T6: r(main T1 subject, attractor) -0.90; top subject head L9H6 rank 1/144 most negative; top-5 overlap 2/5
+heads arabert held-out T7: r(main T1 subject, attractor) -0.87; top subject head L9H6 rank 1/144 most negative; top-5 overlap 3/5
+heads camelbert held-out T6: r(main T1 subject, attractor) -0.95; top subject head L9H10 rank 1/144 most negative; top-5 overlap 4/5
+heads camelbert held-out T7: r(main T1 subject, attractor) -0.94; top subject head L9H10 rank 1/144 most negative; top-5 overlap 4/5
+heads arbert held-out T6: r(main T1 subject, attractor) -0.92; top subject head L10H3 rank 1/144 most negative; top-5 overlap 5/5
+heads arbert held-out T7: r(main T1 subject, attractor) -0.92; top subject head L10H3 rank 1/144 most negative; top-5 overlap 5/5
+heads marbert held-out T6: r(main T1 subject, attractor) -0.79; top subject head L9H7 rank 1/144 most negative; top-5 overlap 2/5
+heads marbert held-out T7: r(main T1 subject, attractor) -0.74; top subject head L9H7 rank 1/144 most negative; top-5 overlap 2/5
+excluded held-out homograph items: 550
+treebank accuracy by gold arabert: T1 m 97.9 (n=242), f 94.6 (n=166); T4 m 98.8 (n=1416), f 97.8 (n=636); T6 m 93.0 (n=242), f 88.6 (n=166)
+treebank accuracy by gold camelbert: T1 m 97.5 (n=242), f 94.0 (n=166); T4 m 98.4 (n=1416), f 97.3 (n=636); T6 m 92.6 (n=242), f 88.0 (n=166)
+treebank accuracy by gold arbert: T1 m 97.9 (n=242), f 92.7 (n=165); T4 m 98.4 (n=1416), f 97.5 (n=636); T6 m 90.1 (n=242), f 89.2 (n=166)
+treebank accuracy by gold marbert: T6 m 78.1 (n=242), f 75.9 (n=166)
+subject arabert T1: all peak L9 late-early +0.66 (n=1067); noun peak L9 late-early +0.72 (n=824)
+subject arabert T2: all peak L9 late-early +0.47 (n=1125); noun peak L9 late-early +0.47 (n=1125)
+subject arabert T3: all peak L9 late-early +0.32 (n=518); noun peak L9 late-early +0.32 (n=518)
+subject arabert T4: all peak L9 late-early +0.37 (n=874); noun peak L9 late-early +0.36 (n=656)
+subject arabert T5: all peak L9 late-early +0.55 (n=1037); noun peak L9 late-early +0.53 (n=791)
+subject arabert T6: all peak L9 late-early +0.29 (n=602); noun peak L9 late-early +0.29 (n=481)
+subject arbert T1: all peak L8 late-early +0.70 (n=985); noun peak L8 late-early +0.71 (n=745)
+subject arbert T2: all peak L8 late-early +0.59 (n=1006); noun peak L8 late-early +0.59 (n=1006)
+subject arbert T3: all peak L8 late-early +0.47 (n=498); noun peak L8 late-early +0.47 (n=498)
+subject arbert T4: all peak L9 late-early +0.61 (n=946); noun peak L9 late-early +0.68 (n=717)
+subject arbert T5: all peak L8 late-early +0.83 (n=1023); noun peak L8 late-early +0.80 (n=764)
+subject arbert T6: all peak L8 late-early +0.45 (n=674); noun peak L8 late-early +0.46 (n=509)
+subject camelbert T1: all peak L9 late-early +0.56 (n=936); noun peak L9 late-early +0.58 (n=715)
+subject camelbert T2: all peak L9 late-early +0.51 (n=1000); noun peak L9 late-early +0.51 (n=1000)
+subject camelbert T3: all peak L10 late-early +0.21 (n=631); noun peak L10 late-early +0.21 (n=631)
+subject camelbert T4: all peak L9 late-early +0.27 (n=887); noun peak L9 late-early +0.26 (n=659)
+subject camelbert T5: all peak L9 late-early +0.47 (n=1021); noun peak L8 late-early +0.47 (n=772)
+subject camelbert T6: all peak L9 late-early +0.29 (n=684); noun peak L8 late-early +0.31 (n=537)
+subject marbert T1: all peak L8 late-early +0.32 (n=897); noun peak L8 late-early +0.35 (n=662)
+subject marbert T2: all peak L8 late-early +0.23 (n=866); noun peak L8 late-early +0.23 (n=866)
+subject marbert T3: all peak L8 late-early +0.45 (n=495); noun peak L8 late-early +0.45 (n=495)
+subject marbert T4: all peak L8 late-early +0.12 (n=719); noun peak L9 late-early +0.14 (n=535)
+subject marbert T5: all peak L8 late-early +0.30 (n=863); noun peak L8 late-early +0.32 (n=639)
+subject marbert T6: all peak L8 late-early +0.28 (n=542); noun peak L8 late-early +0.30 (n=413)
+logit lens arabert gold None (n=1200): L3 +0.36 L7 +1.31 L9 +1.87 L11 +2.56
+logit lens arabert gold m (n=600): L3 +5.05 L7 +4.25 L9 +5.21 L11 +3.30
+logit lens arabert gold f (n=600): L3 -4.33 L7 -1.63 L9 -1.48 L11 +1.81
+logit lens camelbert gold None (n=1200): L3 +0.49 L7 +1.25 L9 +1.91 L11 +1.71
+logit lens camelbert gold m (n=600): L3 +4.09 L7 +3.95 L9 +3.16 L11 +3.04
+logit lens camelbert gold f (n=600): L3 -3.12 L7 -1.45 L9 +0.66 L11 +0.39
+logit lens arbert gold None (n=1142): L3 +0.27 L7 +0.91 L9 +2.12 L11 +2.30
+logit lens arbert gold m (n=571): L3 +1.12 L7 +2.64 L9 +3.16 L11 +3.30
+logit lens arbert gold f (n=571): L3 -0.57 L7 -0.82 L9 +1.08 L11 +1.30

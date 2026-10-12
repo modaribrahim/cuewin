@@ -1,0 +1,57 @@
+== Crossed subject x frame bootstrap (B=10000, seed 44) ==
+  arabert   subject T1 L9 minus L0-6     +1.5339 [+1.3398,+1.7337] (44 subj x 21 frames)
+  arabert   attractor T6 L5-11           -0.2065 [-0.2395,-0.1744] (44 subj x 21 frames)
+  arabert   adjective T3 L5-11           -0.3866 [-0.4490,-0.3329] (34 subj x 21 frames)
+  arabert   repair T6 L8-11 minus L0-3   +34.9 pp [+23.1,+46.7] (44 subj x 21 frames)
+  arabert   repair T3 L8-11 minus L0-3   +40.3 pp [+29.6,+51.1] (34 subj x 21 frames)
+  camelbert subject T1 L9 minus L0-6     +0.8598 [+0.6986,+1.0358] (44 subj x 21 frames)
+  camelbert attractor T6 L5-11           -0.1867 [-0.2132,-0.1615] (44 subj x 21 frames)
+  camelbert adjective T3 L5-11           -0.2487 [-0.3093,-0.1964] (34 subj x 21 frames)
+  camelbert repair T6 L8-11 minus L0-3   +34.5 pp [+23.2,+46.9] (44 subj x 21 frames)
+  camelbert repair T3 L8-11 minus L0-3   +33.4 pp [+23.4,+44.2] (34 subj x 21 frames)
+  arbert    subject T1 L9 minus L0-6     +0.8890 [+0.7552,+1.0245] (42 subj x 21 frames)
+  arbert    attractor T6 L5-11           -0.1815 [-0.2143,-0.1511] (42 subj x 21 frames)
+  arbert    adjective T3 L5-11           -0.3324 [-0.4140,-0.2564] (32 subj x 21 frames)
+  arbert    repair T6 L8-11 minus L0-3   +47.0 pp [+32.2,+61.4] (42 subj x 21 frames)
+  arbert    repair T3 L8-11 minus L0-3   +59.4 pp [+46.1,+71.4] (32 subj x 21 frames)
+  marbert   subject T1 L8 minus L0-6     +0.7302 [+0.5952,+0.8727] (37 subj x 21 frames)
+  marbert   attractor T6 L5-11           -0.1771 [-0.2081,-0.1468] (37 subj x 21 frames)
+  marbert   adjective T3 L5-11           -0.3346 [-0.3794,-0.2929] (27 subj x 21 frames)
+  marbert   repair T6 L8-11 minus L0-3   +23.9 pp [+13.6,+34.7] (37 subj x 21 frames)
+  marbert   repair T3 L8-11 minus L0-3   +20.0 pp [+11.1,+29.8] (27 subj x 21 frames)
+
+== Repair by depth: gender-only patch, error items ==
+  arabert   T6: best 4-layer window L7-10 (50.7), last window L8-11 47.8; best single layer L9 (28.9), L11 7.7
+            4-layer: 0-3:12.9 1-4:10.5 2-5:11.5 3-6:11.9 4-7:17.7 5-8:20.9 6-9:44.5 7-10:50.7 8-11:47.8
+            single:  0:8 1:5 2:3 3:4 4:4 5:5 6:3 7:12 8:7 9:29 10:11 11:8
+  arabert   T3: best 4-layer window L6-9 (80.6), last window L8-11 64.7; best single layer L9 (38.1), L11 0.9
+            4-layer: 0-3:24.3 1-4:27.0 2-5:33.1 3-6:35.3 4-7:48.7 5-8:59.1 6-9:80.6 7-10:78.9 8-11:64.7
+            single:  0:7 1:7 2:8 3:10 4:6 5:11 6:13 7:18 8:14 9:38 10:7 11:1
+  camelbert T6: best 4-layer window L7-10 (48.4), last window L8-11 45.3; best single layer L10 (18.4), L11 7.4
+            4-layer: 0-3:10.9 1-4:8.9 2-5:9.5 3-6:13.4 4-7:18.0 5-8:29.8 6-9:39.7 7-10:48.4 8-11:45.3
+            single:  0:4 1:3 2:3 3:3 4:4 5:3 6:8 7:8 8:17 9:12 10:18 11:7
+  camelbert T3: best 4-layer window L7-10 (50.4), last window L8-11 49.6; best single layer L8 (22.0), L11 4.9
+            4-layer: 0-3:16.2 1-4:14.2 2-5:15.6 3-6:20.0 4-7:30.1 5-8:43.8 6-9:50.1 7-10:50.4 8-11:49.6
+            single:  0:8 1:4 2:3 3:2 4:4 5:9 6:7 7:13 8:22 9:13 10:11 11:5
+  arbert    T6: best 4-layer window L8-11 (58.5), last window L8-11 58.5; best single layer L10 (21.7), L11 11.3
+            4-layer: 0-3:11.5 1-4:10.4 2-5:18.7 3-6:21.5 4-7:14.0 5-8:29.8 6-9:45.3 7-10:54.7 8-11:58.5
+            single:  0:6 1:4 2:5 3:1 4:6 5:13 6:7 7:4 8:18 9:19 10:22 11:11
+  arbert    T3: best 4-layer window L6-9 (74.1), last window L8-11 70.0; best single layer L8 (31.9), L11 5.2
+            4-layer: 0-3:10.6 1-4:11.2 2-5:23.7 3-6:38.1 4-7:31.9 5-8:65.9 6-9:74.1 7-10:69.2 8-11:70.0
+            single:  0:5 1:3 2:5 3:2 4:5 5:17 6:17 7:4 8:32 9:28 10:16 11:5
+  marbert   T6: best 4-layer window L6-9 (52.7), last window L8-11 43.4; best single layer L9 (20.6), L11 2.2
+            4-layer: 0-3:19.6 1-4:22.8 2-5:29.9 3-6:37.2 4-7:37.2 5-8:47.5 6-9:52.7 7-10:47.5 8-11:43.4
+            single:  0:2 1:5 2:6 3:11 4:6 5:12 6:14 7:9 8:20 9:21 10:3 11:2
+  marbert   T3: best 4-layer window L6-9 (69.9), last window L8-11 47.3; best single layer L8 (27.7), L11 1.1
+            4-layer: 0-3:27.2 1-4:40.7 2-5:49.9 3-6:61.7 4-7:69.1 5-8:67.8 6-9:69.9 7-10:63.4 8-11:47.3
+            single:  0:2 1:3 2:10 3:15 4:26 5:15 6:18 7:22 8:28 9:19 10:1 11:1
+
+== Crossed bootstrap, added effects (B=10000, seed 46) ==
+  arabert   subject - adjective T2 L7-11 +0.2645 [+0.1940,+0.3338] (34 subj x 21 frames)
+  arabert   word order T4 - T1 L5-11     -0.2683 [-0.3230,-0.2162] (44 subj x 21 frames)
+  camelbert subject - adjective T2 L7-11 +0.2650 [+0.2058,+0.3277] (34 subj x 21 frames)
+  camelbert word order T4 - T1 L5-11     -0.1605 [-0.2190,-0.1041] (44 subj x 21 frames)
+  arbert    subject - adjective T2 L7-11 +0.3105 [+0.2387,+0.3801] (32 subj x 21 frames)
+  arbert    word order T4 - T1 L5-11     -0.0096 [-0.0695,+0.0505] (42 subj x 21 frames)
+  marbert   subject - adjective T2 L7-11 +0.1302 [+0.0854,+0.1817] (27 subj x 21 frames)
+  marbert   word order T4 - T1 L5-11     -0.1705 [-0.2164,-0.1260] (37 subj x 21 frames)

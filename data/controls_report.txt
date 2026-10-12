@@ -1,0 +1,33 @@
+== E1. Head output at [MASK] (subject: correct T1 items; attractor: all T6 items) ==
+  arabert   subject   layer attention output at [MASK], median share by layer: 0:0.00 1:0.00 2:0.00 3:0.00 4:0.01 5:0.03 6:0.01 7:0.17 8:0.06 9:0.22 10:0.14 11:0.08
+  arabert   attractor layer attention output at [MASK], median share by layer: 0:0.01 1:0.01 2:0.00 3:0.01 4:0.03 5:0.04 6:0.03 7:0.18 8:0.12 9:0.30 10:0.11 11:0.09
+  arabert   subject   r([MASK]-only map, value-patching map) = +0.95
+  arabert   attractor r([MASK]-only map, value-patching map) = +0.97
+  arabert   top subject head L9H6: [MASK]-only subject score +0.655, value-patching +0.951, share 0.69 [0.67, 0.71] (n=1067); rank among [MASK]-only subject heads 1/144; [MASK]-only attractor score -0.387 (rank 1/144 most negative)
+  camelbert subject   layer attention output at [MASK], median share by layer: 0:0.00 1:-0.00 2:0.00 3:0.00 4:0.00 5:0.01 6:0.05 7:0.06 8:0.14 9:0.26 10:0.23 11:0.09
+  camelbert attractor layer attention output at [MASK], median share by layer: 0:0.01 1:0.00 2:0.00 3:0.02 4:0.05 5:0.05 6:0.11 7:0.13 8:0.18 9:0.24 10:0.17 11:0.08
+  camelbert subject   r([MASK]-only map, value-patching map) = +0.98
+  camelbert attractor r([MASK]-only map, value-patching map) = +0.92
+  camelbert top subject head L9H10: [MASK]-only subject score +0.733, value-patching +0.780, share 0.94 [0.92, 0.96] (n=936); rank among [MASK]-only subject heads 1/144; [MASK]-only attractor score -0.241 (rank 1/144 most negative)
+  arbert    subject   layer attention output at [MASK], median share by layer: 0:-0.00 1:-0.00 2:0.00 3:0.00 4:0.01 5:0.03 6:0.02 7:0.02 8:0.10 9:0.16 10:0.18 11:0.25
+  arbert    attractor layer attention output at [MASK], median share by layer: 0:0.00 1:0.01 2:0.02 3:0.00 4:0.03 5:0.09 6:0.04 7:0.05 8:0.19 9:0.25 10:0.12 11:0.22
+  arbert    subject   r([MASK]-only map, value-patching map) = +0.71
+  arbert    attractor r([MASK]-only map, value-patching map) = +0.80
+  arbert    top subject head L10H3: [MASK]-only subject score +1.015, value-patching +0.655, share 1.55 [1.51, 1.60] (n=985); rank among [MASK]-only subject heads 1/144; [MASK]-only attractor score -0.250 (rank 1/144 most negative)
+  marbert   subject   layer attention output at [MASK], median share by layer: 0:-0.00 1:0.00 2:0.01 3:0.02 4:0.02 5:0.06 6:0.04 7:0.04 8:0.13 9:0.14 10:0.03 11:0.01
+  marbert   attractor layer attention output at [MASK], median share by layer: 0:0.00 1:0.02 2:0.06 3:0.12 4:0.08 5:0.13 6:0.12 7:0.10 8:0.13 9:0.23 10:0.06 11:0.03
+  marbert   subject   r([MASK]-only map, value-patching map) = +0.98
+  marbert   attractor r([MASK]-only map, value-patching map) = +0.91
+  marbert   top subject head L9H7: [MASK]-only subject score +0.527, value-patching +0.499, share 1.06 [1.03, 1.08] (n=897); rank among [MASK]-only subject heads 1/144; [MASK]-only attractor score -0.188 (rank 1/144 most negative)
+
+== E2. Same-gender swap control (repair on error items, break on correct items) ==
+  arabert   T6 n_err=598 n_corr=602: swap repair 9.9/5.5/5.2 | gender-only patch 12.9/17.7/47.8 | swap break 11.1/7.3/6.6 | late patch-minus-swap +42.6 [+38.8, +46.7]
+  arabert   T3 n_err=538 n_corr=439: swap repair 11.2/8.7/9.9 | gender-only patch 17.1/51.5/62.1 | swap break 16.2/10.7/8.4 | late patch-minus-swap +52.2 [+48.0, +56.5]
+  camelbert T6 n_err=516 n_corr=684: swap repair 10.3/7.9/5.6 | gender-only patch 10.9/18.0/45.3 | swap break 8.8/6.3/6.6 | late patch-minus-swap +39.7 [+35.5, +44.0]
+  camelbert T3 n_err=450 n_corr=527: swap repair 8.7/8.7/7.3 | gender-only patch 6.7/25.8/45.6 | swap break 5.5/6.5/5.7 | late patch-minus-swap +38.2 [+33.8, +42.9]
+  arbert    T6 n_err=470 n_corr=674: swap repair 10.2/11.3/10.2 | gender-only patch 11.5/14.0/58.5 | swap break 9.8/5.6/6.2 | late patch-minus-swap +48.3 [+43.6, +53.0]
+  arbert    T3 n_err=512 n_corr=414: swap repair 7.2/7.0/10.2 | gender-only patch 10.2/31.2/69.3 | swap break 13.0/9.7/11.8 | late patch-minus-swap +59.2 [+54.9, +63.3]
+  marbert   T6 n_err=465 n_corr=542: swap repair 7.1/8.8/4.9 | gender-only patch 19.6/37.2/43.4 | swap break 5.5/6.3/5.0 | late patch-minus-swap +38.5 [+34.0, +42.8]
+  marbert   T3 n_err=399 n_corr=377: swap repair 7.3/10.0/6.0 | gender-only patch 23.3/68.9/46.1 | swap break 9.0/10.6/7.4 | late patch-minus-swap +40.1 [+35.3, +44.9]
+  items with a same-gender replacement: 2177 of 2400 (T3+T6)
+

@@ -1,0 +1,63 @@
+masc,fem,gloss,masc_pieces,fem_pieces,n_masc_tok,n_fem_tok,matches_ta_rule,reason
+المحرر,المحررة,editor,المحر ##ر,المحر ##رة,2,2,False,ة fused into last piece
+المترجم,المترجمة,translator,المترجم,المترجمة,1,1,False,ة fused into last piece
+المصور,المصورة,photographer,المصور,المصورة,1,1,False,ة fused into last piece
+المضيف,المضيفة,host,المضي ##ف,المضي ##فة,2,2,False,ة fused into last piece
+الشرطي,الشرطية,police officer,الشرط ##ي,الشرط ##ية,2,2,False,ة fused into last piece
+المبرمج,المبرمجة,programmer,المبرم ##ج,المبرم ##جة,2,2,False,ة fused into last piece
+الممثل,الممثلة,actor,الممثل,الممثلة,1,1,False,ة fused into last piece
+المطرب,المطربة,singer,المطر ##ب,المطر ##بة,2,2,False,ة fused into last piece
+الإعلامي,الإعلامية,media person,الإعلامي,الإعلامية,1,1,False,ة fused into last piece
+المتطوع,المتطوعة,volunteer,المتط ##وع,المتط ##وعة,2,2,False,ة fused into last piece
+المتحدث,المتحدثة,spokesperson,المتحدث,المتحدثة,1,1,False,ة fused into last piece
+المتخصص,المتخصصة,specialist,المتخصص,المتخصصة,1,1,False,ة fused into last piece
+المسؤول,المسؤولة,official,المسؤول,المسؤولة,1,1,False,ة fused into last piece
+المستخدم,المستخدمة,user,المستخدم,المستخدمة,1,1,False,ة fused into last piece
+المهاجر,المهاجرة,migrant,المها ##جر,المها ##جرة,2,2,False,ة fused into last piece
+المفوض,المفوضة,commissioner,المف ##وض,المف ##وضة,2,2,False,ة fused into last piece
+المؤيد,المؤيدة,supporter,المؤ ##يد,المؤ ##يدة,2,2,False,ة fused into last piece
+الحكم,الحكمة,referee,الحكم,الحكمة,1,1,False,ة fused into last piece
+المؤسس,المؤسسة,founder,المؤسس,المؤسسة,1,1,False,ة fused into last piece
+الرسام,الرسامة,painter,الرس ##ام,الرس ##امة,2,2,False,ة fused into last piece
+التاجر,التاجرة,merchant,التاج ##ر,التاج ##رة,2,2,False,ة fused into last piece
+الناقد,الناقدة,critic,النا ##قد,النا ##قدة,2,2,False,ة fused into last piece
+المفتش,المفتشة,inspector,المفت ##ش,المفت ##شة,2,2,False,ة fused into last piece
+الجراح,الجراحة,surgeon,الجراح,الجراحة,1,1,False,ة fused into last piece
+الحلاق,الحلاقة,barber,الحل ##اق,الحل ##اقة,2,2,False,ة fused into last piece
+الصيدلي,الصيدلية,pharmacist,الصيد ##لي,الصيد ##لية,2,2,False,ة fused into last piece
+المساعد,المساعدة,assistant,المساعد,المساعدة,1,1,False,ة fused into last piece
+المعالج,المعالجة,therapist,المعالج,المعالجة,1,1,False,ة fused into last piece
+الملاكم,الملاكمة,boxer,الملاك ##م,الملاك ##مة,2,2,False,ة fused into last piece
+المهرج,المهرجة,clown,المه ##رج,المه ##رجة,2,2,False,ة fused into last piece
+الطالب,الطالبة,student,الطالب,الطالب ##ة,1,2,True,"clean [stem,##ة]"
+المعلم,المعلمة,teacher,المعلم,المعلم ##ة,1,2,True,"clean [stem,##ة]"
+الطبيب,الطبيبة,doctor,الطبيب,الطبيب ##ة,1,2,True,"clean [stem,##ة]"
+المهندس,المهندسة,engineer,المهندس,المهندس ##ة,1,2,True,"clean [stem,##ة]"
+الكاتب,الكاتبة,writer,الكاتب,الكاتب ##ة,1,2,True,"clean [stem,##ة]"
+المدير,المديرة,manager,المدير,المدير ##ة,1,2,True,"clean [stem,##ة]"
+الممرض,الممرضة,nurse,الممر ##ض,الممر ##ضة,2,2,False,ة fused into last piece
+الموظف,الموظفة,employee,الموظف,الموظف ##ة,1,2,True,"clean [stem,##ة]"
+الجار,الجارة,neighbor,الجار,الجار ##ة,1,2,True,"clean [stem,##ة]"
+الصحفي,الصحفية,journalist,الصحفي,الصحفية,1,1,False,ة fused into last piece
+المحامي,المحامية,lawyer,المحامي,المحامي ##ة,1,2,True,"clean [stem,##ة]"
+الفنان,الفنانة,artist,الفنان,الفنانة,1,1,False,ة fused into last piece
+الباحث,الباحثة,researcher,الباحث,الباحث ##ة,1,2,True,"clean [stem,##ة]"
+الأستاذ,الأستاذة,professor,الأستاذ,الأستاذ ##ة,1,2,True,"clean [stem,##ة]"
+العامل,العاملة,worker,العامل,العاملة,1,1,False,ة fused into last piece
+البائع,البائعة,seller,البائع,البائع ##ة,1,2,True,"clean [stem,##ة]"
+المسافر,المسافرة,traveler,المسافر,المسافر ##ة,1,2,True,"clean [stem,##ة]"
+الزائر,الزائرة,visitor,الزائر,الزائر ##ة,1,2,True,"clean [stem,##ة]"
+الضيف,الضيفة,guest,الضيف,الضيف ##ة,1,2,True,"clean [stem,##ة]"
+السائق,السائقة,driver,السائق,السائق ##ة,1,2,True,"clean [stem,##ة]"
+الرئيس,الرئيسة,president,الرئيس,الرئيسة,1,1,False,ة fused into last piece
+الوزير,الوزيرة,minister,الوزير,الوزير ##ة,1,2,True,"clean [stem,##ة]"
+المريض,المريضة,patient,المريض,المريض ##ة,1,2,True,"clean [stem,##ة]"
+الطفل,الطفلة,child,الطفل,الطفلة,1,1,False,ة fused into last piece
+الجد,الجدة,grandparent,الجد,الجد ##ة,1,2,True,"clean [stem,##ة]"
+الأمير,الأميرة,prince/princess,الأمير,الأميرة,1,1,False,ة fused into last piece
+الملك,الملكة,king/queen,الملك,الملكة,1,1,False,ة fused into last piece
+الشاب,الشابة,young person,الشاب,الشابة,1,1,False,ة fused into last piece
+الصديق,الصديقة,friend,الصديق,الصديق ##ة,1,2,True,"clean [stem,##ة]"
+المخرج,المخرجة,director,المخرج,المخرج ##ة,1,2,True,"clean [stem,##ة]"
+المغني,المغنية,singer,المغني,المغني ##ة,1,2,True,"clean [stem,##ة]"
+اللاعب,اللاعبة,player,اللاعب,اللاعب ##ة,1,2,True,"clean [stem,##ة]"

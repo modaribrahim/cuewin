@@ -1,0 +1,37 @@
+P0 dose-response (natural T6 attractor), N items: 408
+
+Length/density range in the natural T6 set:
+  n_words   min..max: 9..250  median 45
+  fem_count min..max: 0..29  median 6
+
+[arabert] interference ~ log(n_words): OLS slope +0.0805 (p=0.000); cluster-boot slope +0.0813 95%CI [+0.0397,+0.1284]
+[arabert] interference ~ fem_count: OLS slope +0.0043 (p=0.002); cluster-boot slope +0.0045 95%CI [+0.0018,+0.0078]
+[camelbert] interference ~ log(n_words): OLS slope +0.0625 (p=0.000); cluster-boot slope +0.0627 95%CI [+0.0384,+0.0854]
+[camelbert] interference ~ fem_count: OLS slope +0.0043 (p=0.000); cluster-boot slope +0.0043 95%CI [+0.0025,+0.0067]
+[arbert] interference ~ log(n_words): OLS slope +0.0978 (p=0.000); cluster-boot slope +0.0987 95%CI [+0.0558,+0.1471]
+[arbert] interference ~ fem_count: OLS slope +0.0060 (p=0.001); cluster-boot slope +0.0062 95%CI [+0.0023,+0.0106]
+
+Joint regression interference ~ log(n_words) + fem_count:
+[arabert] len slope +0.113 (p=0.000); fem slope -0.004 (p=0.037); corr(log(n_words), fem_count) r=0.76
+[camelbert] len slope +0.072 (p=0.000); fem slope -0.001 (p=0.431); corr(log(n_words), fem_count) r=0.76
+[arbert] len slope +0.126 (p=0.000); fem slope -0.004 (p=0.185); corr(log(n_words), fem_count) r=0.76
+
+[arabert] Spearman interference~n_words r=0.148 p=0.003; interference~fem_count r=0.102 p=0.039
+[camelbert] Spearman interference~n_words r=0.209 p=0.000; interference~fem_count r=0.199 p=0.000
+[arbert] Spearman interference~n_words r=0.222 p=0.000; interference~fem_count r=0.130 p=0.009
+
+Binned mean interference by n_words tercile:
+  arabert: short=-0.080; mid=-0.014; long=-0.009
+  camelbert: short=-0.068; mid=-0.028; long=-0.016
+  arbert: short=-0.126; mid=-0.067; long=-0.027
+
+=== thin-n point estimates with cluster-boot CIs ===
+subject-patch L8-11 [T1 arabert] n=11: score +0.214 95%CI [+0.087,+0.368]
+subject-patch L8-11 [T1 camelbert] n=11: score +0.324 95%CI [+0.159,+0.501]
+subject-patch L8-11 [T1 arbert] n=10: score +0.257 95%CI [+0.089,+0.458]
+subject-patch L8-11 [T4 arabert] n=73: score +0.458 95%CI [+0.337,+0.588]
+subject-patch L8-11 [T4 camelbert] n=73: score +0.441 95%CI [+0.353,+0.527]
+subject-patch L8-11 [T4 arbert] n=73: score +0.592 95%CI [+0.425,+0.791]
+repair rate [arabert] n_wrong=36: 0.444 95%CI [0.278,0.611]
+repair rate [camelbert] n_wrong=38: 0.395 95%CI [0.237,0.553]
+repair rate [arbert] n_wrong=42: 0.429 95%CI [0.286,0.571]

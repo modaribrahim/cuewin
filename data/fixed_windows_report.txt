@@ -1,0 +1,136 @@
+== A. Value-patching summary, fixed windows (early 0-3, late 8-11) ==
+   crossed bootstrap B=10000, seed 47; item bootstrap B=10000, seed 48
+[arabert]
+  subject peak (correct / all items): T1 L9 (+1.59) / all L9; T2 L9 (+1.15) / all L9; T3 L9 (+1.15) / all L9; T4 L9 (+0.53) / all L9; T5 L9 (+1.53) / all L9; T6 L9 (+0.66) / all L9
+  subject T1 late-minus-early (correct, n=1067): item +0.664 [+0.637,+0.690]; crossed +0.664 [+0.579,+0.751] (44 subj x 21 frame)
+    T1 late mean +0.686, early mean +0.022
+  T2 subject-minus-adjective late (all, n=1200): item +0.210 [+0.195,+0.226]; crossed s x f x adj +0.210 [+0.130,+0.293] (34 subj x 21 frame x 11 cue); subj +0.442 adj +0.231 ratio 1.9
+  T2 subject-minus-adjective late (correct, n=1125): item +0.224 [+0.208,+0.239]; crossed s x f x adj +0.224 [+0.145,+0.307] (34 subj x 21 frame x 11 cue); subj +0.463 adj +0.239 ratio 1.9
+  T3 adjective late (all, n=1200): item -0.411 [-0.425,-0.396]; crossed s x f -0.411 [-0.477,-0.353]; crossed s x f x cue -0.411 [-0.493,-0.335] (34 subj x 21 frame x 11 cue); most negative L9 (-0.98)
+  T6 attractor late (all, n=1200): item -0.279 [-0.291,-0.267]; crossed s x f -0.279 [-0.327,-0.232]; crossed s x f x cue -0.279 [-0.339,-0.224] (44 subj x 21 frame x 8 cue); most negative L9 (-0.60)
+  subject VSO-minus-SVO late (all, n=1200/1200): item -0.284 [-0.312,-0.256]; crossed -0.284 [-0.352,-0.216]; T4 +0.347 T1 +0.631
+  subject VSO-minus-SVO late (correct, n=874/1067): item -0.282 [-0.311,-0.252]; crossed -0.282 [-0.347,-0.218]; T4 +0.404 T1 +0.686
+[camelbert]
+  subject peak (correct / all items): T1 L9 (+0.93) / all L9; T2 L9 (+0.83) / all L9; T3 L10 (+0.46) / all L10; T4 L9 (+0.50) / all L9; T5 L9 (+0.72) / all L9; T6 L9 (+0.41) / all L9
+  subject T1 late-minus-early (correct, n=936): item +0.562 [+0.538,+0.586]; crossed +0.562 [+0.465,+0.662] (44 subj x 21 frame)
+    T1 late mean +0.643, early mean +0.080
+  T2 subject-minus-adjective late (all, n=1200): item +0.222 [+0.208,+0.237]; crossed s x f x adj +0.222 [+0.150,+0.303] (34 subj x 21 frame x 11 cue); subj +0.500 adj +0.277 ratio 1.8
+  T2 subject-minus-adjective late (correct, n=1000): item +0.248 [+0.232,+0.264]; crossed s x f x adj +0.248 [+0.171,+0.332] (34 subj x 21 frame x 11 cue); subj +0.540 adj +0.292 ratio 1.8
+  T3 adjective late (all, n=1200): item -0.297 [-0.311,-0.284]; crossed s x f -0.297 [-0.360,-0.243]; crossed s x f x cue -0.297 [-0.380,-0.227] (34 subj x 21 frame x 11 cue); most negative L8 (-0.51)
+  T6 attractor late (all, n=1200): item -0.243 [-0.252,-0.235]; crossed s x f -0.243 [-0.278,-0.212]; crossed s x f x cue -0.243 [-0.288,-0.201] (44 subj x 21 frame x 8 cue); most negative L10 (-0.34)
+  subject VSO-minus-SVO late (all, n=1200/1200): item -0.277 [-0.301,-0.253]; crossed -0.277 [-0.341,-0.214]; T4 +0.283 T1 +0.560
+  subject VSO-minus-SVO late (correct, n=887/936): item -0.321 [-0.348,-0.294]; crossed -0.321 [-0.389,-0.253]; T4 +0.321 T1 +0.643
+[arbert]
+  subject peak (correct / all items): T1 L8 (+1.06) / all L8; T2 L8 (+0.93) / all L8; T3 L8 (+0.82) / all L8; T4 L9 (+1.09) / all L9; T5 L8 (+1.18) / all L10; T6 L8 (+0.71) / all L8
+  subject T1 late-minus-early (correct, n=985): item +0.700 [+0.669,+0.733]; crossed +0.700 [+0.610,+0.789] (42 subj x 21 frame)
+    T1 late mean +0.738, early mean +0.038
+  T2 subject-minus-adjective late (all, n=1130): item +0.368 [+0.344,+0.392]; crossed s x f x adj +0.368 [+0.259,+0.483] (32 subj x 21 frame x 11 cue); subj +0.543 adj +0.175 ratio 3.1
+  T2 subject-minus-adjective late (correct, n=1006): item +0.409 [+0.385,+0.435]; crossed s x f x adj +0.409 [+0.299,+0.525] (32 subj x 21 frame x 11 cue); subj +0.589 adj +0.180 ratio 3.3
+  T3 adjective late (all, n=1131): item -0.439 [-0.459,-0.420]; crossed s x f -0.439 [-0.528,-0.357]; crossed s x f x cue -0.439 [-0.558,-0.340] (32 subj x 21 frame x 11 cue); most negative L8 (-0.70)
+  T6 attractor late (all, n=1144): item -0.271 [-0.285,-0.257]; crossed s x f -0.271 [-0.320,-0.227]; crossed s x f x cue -0.271 [-0.342,-0.202] (42 subj x 21 frame x 8 cue); most negative L9 (-0.35)
+  subject VSO-minus-SVO late (all, n=1143/1142): item -0.092 [-0.131,-0.053]; crossed -0.092 [-0.180,-0.003]; T4 +0.567 T1 +0.659
+  subject VSO-minus-SVO late (correct, n=946/985): item -0.091 [-0.133,-0.049]; crossed -0.091 [-0.181,+0.004]; T4 +0.648 T1 +0.738
+[marbert]
+  subject peak (correct / all items): T1 L8 (+0.88) / all L8; T2 L8 (+0.59) / all L8; T3 L8 (+0.93) / all L8; T4 L8 (+0.32) / all L9; T5 L8 (+0.82) / all L8; T6 L8 (+0.84) / all L8
+  subject T1 late-minus-early (correct, n=897): item +0.320 [+0.303,+0.338]; crossed +0.320 [+0.257,+0.386] (37 subj x 21 frame)
+    T1 late mean +0.389, early mean +0.069
+  T2 subject-minus-adjective late (all, n=952): item +0.141 [+0.129,+0.153]; crossed s x f x adj +0.141 [+0.085,+0.210] (27 subj x 21 frame x 11 cue); subj +0.239 adj +0.098 ratio 2.4
+  T2 subject-minus-adjective late (correct, n=866): item +0.149 [+0.136,+0.163]; crossed s x f x adj +0.149 [+0.087,+0.221] (27 subj x 21 frame x 11 cue); subj +0.252 adj +0.103 ratio 2.4
+  T3 adjective late (all, n=954): item -0.264 [-0.274,-0.254]; crossed s x f -0.264 [-0.301,-0.232]; crossed s x f x cue -0.264 [-0.326,-0.210] (27 subj x 21 frame x 11 cue); most negative L8 (-0.63)
+  T6 attractor late (all, n=1007): item -0.197 [-0.204,-0.189]; crossed s x f -0.197 [-0.228,-0.166]; crossed s x f x cue -0.197 [-0.237,-0.156] (37 subj x 21 frame x 8 cue); most negative L9 (-0.39)
+  subject VSO-minus-SVO late (all, n=1005/1003): item -0.216 [-0.235,-0.198]; crossed -0.216 [-0.270,-0.166]; T4 +0.145 T1 +0.361
+  subject VSO-minus-SVO late (correct, n=719/897): item -0.214 [-0.233,-0.195]; crossed -0.214 [-0.267,-0.165]; T4 +0.175 T1 +0.389
+
+== B. Alternative windows vs fixed windows (point estimates) ==
+  arabert   subj excess old(L9-L0-6) +1.534 new(8-11 - 0-3) +0.664 | subj-adj old(7-11,corr) +0.265 new(8-11,all) +0.210 | T3 old(5-11) -0.387 new -0.411 | T6 old(5-11) -0.206 new -0.279 | VSO-SVO old(5-11,corr) -0.268 new(8-11,all) -0.284
+  camelbert subj excess old(L9-L0-6) +0.860 new(8-11 - 0-3) +0.562 | subj-adj old(7-11,corr) +0.265 new(8-11,all) +0.222 | T3 old(5-11) -0.249 new -0.297 | T6 old(5-11) -0.187 new -0.243 | VSO-SVO old(5-11,corr) -0.161 new(8-11,all) -0.277
+  arbert    subj excess old(L9-L0-6) +0.889 new(8-11 - 0-3) +0.700 | subj-adj old(7-11,corr) +0.311 new(8-11,all) +0.368 | T3 old(5-11) -0.332 new -0.439 | T6 old(5-11) -0.181 new -0.271 | VSO-SVO old(5-11,corr) -0.010 new(8-11,all) -0.092
+  marbert   subj excess old(L8-L0-6) +0.730 new(8-11 - 0-3) +0.320 | subj-adj old(7-11,corr) +0.130 new(8-11,all) +0.141 | T3 old(5-11) -0.335 new -0.264 | T6 old(5-11) -0.177 new -0.197 | VSO-SVO old(5-11,corr) -0.170 new(8-11,all) -0.216
+
+== C. Causal repair (error items; break = correct items made incorrect) ==
+  arabert   T6 n_err=598 late-minus-early +34.9 [+23.1,+46.4] s x f; +34.9 [+19.3,+51.6] s x f x cue (44 subj x 21 frame x 8 cue)
+            L8-11 repair patch/zero/ctrl 47.8/34.8/10.4; break patch/zero/ctrl 0.2/0.2/8.1 (n_correct=602)
+            by |delta_clean| (median 1.30): near early/late 24.7/76.6; far early/late 1.0/19.1
+  arabert   T3 n_err=682 late-minus-early +40.3 [+29.6,+50.9] s x f; +40.3 [+20.8,+58.9] s x f x cue (34 subj x 21 frame x 11 cue)
+            L8-11 repair patch/zero/ctrl 64.7/46.6/7.6; break patch/zero/ctrl 0.0/0.0/13.5 (n_correct=518)
+            by |delta_clean| (median 1.42): near early/late 35.2/90.3; far early/late 13.5/39.0
+  camelbert T6 n_err=516 late-minus-early +34.5 [+23.5,+46.7] s x f; +34.5 [+17.4,+53.6] s x f x cue (44 subj x 21 frame x 8 cue)
+            L8-11 repair patch/zero/ctrl 45.3/28.5/11.4; break patch/zero/ctrl 0.0/0.1/6.7 (n_correct=684)
+            by |delta_clean| (median 1.20): near early/late 20.9/76.0; far early/late 0.8/14.7
+  camelbert T3 n_err=569 late-minus-early +33.4 [+23.5,+43.9] s x f; +33.4 [+20.0,+49.1] s x f x cue (34 subj x 21 frame x 11 cue)
+            L8-11 repair patch/zero/ctrl 49.6/36.2/7.6; break patch/zero/ctrl 0.2/0.5/5.2 (n_correct=631)
+            by |delta_clean| (median 1.58): near early/late 28.4/77.9; far early/late 3.9/21.1
+  arbert    T6 n_err=470 late-minus-early +47.0 [+32.5,+61.1] s x f; +47.0 [+28.5,+65.1] s x f x cue (42 subj x 21 frame x 8 cue)
+            L8-11 repair patch/zero/ctrl 58.5/44.9/16.6; break patch/zero/ctrl 0.3/0.6/15.0 (n_correct=674)
+            by |delta_clean| (median 0.98): near early/late 21.7/83.4; far early/late 1.3/33.6
+  arbert    T3 n_err=633 late-minus-early +59.4 [+46.1,+71.2] s x f; +59.4 [+44.2,+72.9] s x f x cue (32 subj x 21 frame x 11 cue)
+            L8-11 repair patch/zero/ctrl 70.0/56.4/9.6; break patch/zero/ctrl 0.0/0.4/13.3 (n_correct=498)
+            by |delta_clean| (median 1.38): near early/late 20.5/95.3; far early/late 0.6/44.6
+  marbert   T6 n_err=465 late-minus-early +23.9 [+13.3,+34.6] s x f; +23.9 [+9.0,+39.9] s x f x cue (37 subj x 21 frame x 8 cue)
+            L8-11 repair patch/zero/ctrl 43.4/30.3/10.3; break patch/zero/ctrl 0.0/0.6/3.7 (n_correct=542)
+            by |delta_clean| (median 1.02): near early/late 36.1/73.4; far early/late 3.0/13.4
+  marbert   T3 n_err=459 late-minus-early +20.0 [+10.9,+29.9] s x f; +20.0 [+5.4,+35.5] s x f x cue (27 subj x 21 frame x 11 cue)
+            L8-11 repair patch/zero/ctrl 47.3/28.5/5.7; break patch/zero/ctrl 0.0/0.2/8.3 (n_correct=495)
+            by |delta_clean| (median 1.21): near early/late 47.4/76.1; far early/late 7.0/18.3
+
+== D. Hidden-state patching: items excluded by |delta_clean - delta_corr| <= 0.5 ==
+  arabert   T1 17/1200 (1.4%); T4 78/1200 (6.5%); T6 208/1200 (17.3%)
+  camelbert T1 25/1200 (2.1%); T4 80/1200 (6.7%); T6 193/1200 (16.1%)
+  arbert    T1 34/1142 (3.0%); T4 47/1143 (4.1%); T6 122/1144 (10.7%)
+  marbert   T1 10/1003 (1.0%); T4 118/1005 (11.7%); T6 135/1007 (13.4%)
+
+== E. Lexicon shares and item counts ==
+  benchmark T6 items with a name attractor: 474/1200 (39.5%)
+    arabert   T6 items 1200, name attractor 474 (39.5%)
+    camelbert T6 items 1200, name attractor 474 (39.5%)
+    arbert    T6 items 1144, name attractor 460 (40.2%)
+    marbert   T6 items 1007, name attractor 404 (40.1%)
+  behavioral n per cell (m/f):
+    arabert   T1 600/600 T2 600/600 T3 600/600 T4 600/600 T5 600/600 T6 600/600
+    camelbert T1 600/600 T2 600/600 T3 600/600 T4 600/600 T5 600/600 T6 600/600
+    arbert    T1 571/571 T2 565/565 T3 565/566 T4 571/572 T5 571/572 T6 572/572
+    marbert   T1 506/497 T2 475/477 T3 478/476 T4 501/504 T5 506/504 T6 505/502
+
+== F. Robustness in fixed windows ==
+  homographs arabert  : T1 peak L9 +1.59 -> L9 +1.68; late-minus-early +0.66 -> +0.70; T6 attr late -0.279 -> -0.288; VSO-SVO late (all) -0.284 -> -0.285
+  homographs camelbert: T1 peak L9 +0.93 -> L9 +1.02; late-minus-early +0.56 -> +0.57; T6 attr late -0.243 -> -0.245; VSO-SVO late (all) -0.277 -> -0.275
+  homographs arbert   : T1 peak L8 +1.06 -> L8 +1.15; late-minus-early +0.70 -> +0.73; T6 attr late -0.271 -> -0.268; VSO-SVO late (all) -0.092 -> -0.091
+  attractor type arabert  : late name -0.267 (n=474) vs common -0.286 (n=726)
+  attractor type camelbert: late name -0.237 (n=474) vs common -0.248 (n=726)
+  attractor type arbert   : late name -0.213 (n=460) vs common -0.310 (n=684)
+  attractor type marbert  : late name -0.195 (n=404) vs common -0.198 (n=603)
+  zeroing arabert  : T1 late others +0.60 [+0.58,+0.61], subject +0.37 [+0.36,+0.38]; T2 late subject-minus-adjective +0.09 [+0.09,+0.10]
+  zeroing camelbert: T1 late others +0.51 [+0.50,+0.51], subject +0.46 [+0.46,+0.47]; T2 late subject-minus-adjective +0.03 [+0.02,+0.04]
+  zeroing arbert   : T1 late others +0.54 [+0.53,+0.54], subject +0.43 [+0.42,+0.43]; T2 late subject-minus-adjective +0.17 [+0.16,+0.17]
+
+== G. Treebank (fixed windows) ==
+  VSO items with the subject directly after the verb: 1752/2052 (85.4%)
+[arabert]
+  accuracy SVO 96.6 VSO 98.5 (n=2052) VSO adjacent 99.0 (n=1752) attractor 91.2
+  subject T1 late (all, n=11): +0.21 [+0.08,+0.38]; animate only n=10 +0.23 [+0.09,+0.42]
+  subject T4 late (all, n=73): +0.46 [+0.34,+0.59]; adjacent n=65 +0.49 [+0.36,+0.63]; layer-9 all +0.72; animate only n=71 +0.46 [+0.33,+0.59]
+  attractor late (n=408): -0.035 [-0.050,-0.022]; template -0.279; ratio 0.13
+  terciles (<=37, 38-56, >=57 words): short -0.080 (n=141); mid -0.014 (n=133); long -0.009 (n=134)
+  OLS late ~ log(words) + fem: b1 +0.1134 p=7.02e-08 (verb-cluster p=3.13e-04); b2 -0.0044 p=0.037 (verb-cluster p=0.013); r(log words, fem) 0.76
+[camelbert]
+  accuracy SVO 96.1 VSO 98.1 (n=2052) VSO adjacent 98.9 (n=1752) attractor 90.7
+  subject T1 late (all, n=11): +0.32 [+0.16,+0.51]; animate only n=10 +0.35 [+0.18,+0.55]
+  subject T4 late (all, n=73): +0.44 [+0.35,+0.54]; adjacent n=65 +0.46 [+0.36,+0.56]; layer-9 all +1.17; animate only n=71 +0.44 [+0.34,+0.54]
+  attractor late (n=408): -0.038 [-0.049,-0.028]; template -0.243; ratio 0.16
+  terciles (<=37, 38-56, >=57 words): short -0.068 (n=141); mid -0.028 (n=133); long -0.016 (n=134)
+  OLS late ~ log(words) + fem: b1 +0.0719 p=6.31e-06 (verb-cluster p=8.41e-06); b2 -0.0013 p=0.431 (verb-cluster p=0.238); r(log words, fem) 0.76
+[arbert]
+  accuracy SVO 95.8 VSO 98.1 (n=2052) VSO adjacent 98.7 (n=1752) attractor 89.7
+  subject T1 late (all, n=10): +0.26 [+0.09,+0.45]; animate only n=10 +0.26 [+0.09,+0.45]
+  subject T4 late (all, n=73): +0.59 [+0.41,+0.80]; adjacent n=65 +0.61 [+0.41,+0.83]; layer-9 all +0.73; animate only n=71 +0.60 [+0.41,+0.81]
+  attractor late (n=408): -0.074 [-0.093,-0.057]; template -0.271; ratio 0.27
+  terciles (<=37, 38-56, >=57 words): short -0.126 (n=141); mid -0.067 (n=133); long -0.027 (n=134)
+  OLS late ~ log(words) + fem: b1 +0.1255 p=6.54e-06 (verb-cluster p=4.26e-04); b2 -0.0037 p=0.185 (verb-cluster p=0.139); r(log words, fem) 0.76
+  treebank repair, zeroing the attractor (error items; item bootstrap B=2000, seed 49):
+    arabert   n_err=36: 0-3 33.3 [19.4,50.0]; 8-11 22.2 [8.3,36.1]; 5-11 44.4 [27.8,61.1]; 8-11 minus 0-3 -11.1 [-25.0,+2.8] pp
+    camelbert n_err=38: 0-3 36.8 [21.1,52.6]; 8-11 39.5 [23.7,55.3]; 5-11 39.5 [26.3,55.3]; 8-11 minus 0-3 +2.6 [-7.9,+13.2] pp
+    arbert    n_err=42: 0-3 14.3 [4.8,26.2]; 8-11 42.9 [28.6,57.1]; 5-11 42.9 [28.6,57.1]; 8-11 minus 0-3 +28.6 [+14.3,+42.9] pp
+
+== H. Morpheme probe (CAMeLBERT, layer 9; item bootstrap seed 48) ==
+  suffix-minus-stem (n=483): +0.115 [+0.097,+0.132]
+

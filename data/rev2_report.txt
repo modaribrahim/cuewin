@@ -1,0 +1,302 @@
+Revision-2 report. Crossed bootstrap B=10000 (seed 47); treebank item bootstrap seed 50.
+
+== R1. Replication set: accuracy (%) by condition, all items ==
+  arabert   rep: T2 95.4 (n=1200.0); T3 37.8 (n=1200.0); T6 54.4 (n=1035.0); T7 74.6 (n=815.0)
+            main: T1 88.9; T2 93.8; T3 43.2; T6 50.2
+            rep T3 accuracy crossed s x f x cue +37.8 [+27.5,+48.7] (34 subj x 21 frame x 24 cue)
+            rep T6 accuracy crossed s x f x cue +54.4 [+45.2,+63.5] (44 subj x 21 frame x 25 cue)
+            rep T7 accuracy crossed s x f x cue +74.6 [+63.3,+85.0] (10 subj x 21 frame x 33 cue)
+            gold m: T2 97.5; T3 29.0; T6 71.3; T7 78.2
+            gold f: T2 93.3; T3 46.7; T6 37.6; T7 71.0
+  camelbert rep: T2 83.1 (n=1200.0); T3 49.5 (n=1200.0); T6 59.6 (n=1035.0); T7 54.6 (n=815.0)
+            main: T1 78.0; T2 83.3; T3 52.6; T6 57.0
+            rep T3 accuracy crossed s x f x cue +49.5 [+41.7,+57.6] (34 subj x 21 frame x 24 cue)
+            rep T6 accuracy crossed s x f x cue +59.6 [+49.7,+69.5] (44 subj x 21 frame x 25 cue)
+            rep T7 accuracy crossed s x f x cue +54.6 [+43.9,+65.0] (10 subj x 21 frame x 33 cue)
+            gold m: T2 97.3; T3 70.8; T6 77.5; T7 72.1
+            gold f: T2 68.8; T3 28.2; T6 41.8; T7 37.1
+  arbert    rep: T2 88.7 (n=1132.0); T3 39.9 (n=1129.0); T6 60.2 (n=910.0); T7 70.3 (n=774.0)
+            main: T1 86.3; T2 89.0; T3 44.0; T6 58.9
+            rep T3 accuracy crossed s x f x cue +39.9 [+30.2,+49.7] (32 subj x 21 frame x 24 cue)
+            rep T6 accuracy crossed s x f x cue +60.2 [+50.4,+69.9] (42 subj x 21 frame x 23 cue)
+            rep T7 accuracy crossed s x f x cue +70.3 [+58.2,+80.8] (10 subj x 21 frame x 31 cue)
+            gold m: T2 99.6; T3 42.8; T6 72.6; T7 80.5
+            gold f: T2 77.7; T3 37.1; T6 47.9; T7 59.9
+  marbert   rep: T2 92.5 (n=954.0); T3 51.1 (n=953.0); T6 56.8 (n=662.0); T7 77.3 (n=603.0)
+            main: T1 89.4; T2 91.0; T3 51.9; T6 53.8
+            rep T3 accuracy crossed s x f x cue +51.1 [+41.1,+61.3] (27 subj x 21 frame x 24 cue)
+            rep T6 accuracy crossed s x f x cue +56.8 [+45.8,+67.8] (37 subj x 21 frame x 19 cue)
+            rep T7 accuracy crossed s x f x cue +77.3 [+66.0,+87.2] (9 subj x 21 frame x 27 cue)
+            gold m: T2 97.3; T3 48.2; T6 68.7; T7 75.8
+            gold f: T2 87.6; T3 54.0; T6 45.0; T7 78.7
+
+== R2. Replication set: value patching, fixed windows ==
+[arabert]
+  T2 subject-minus-adjective late (all, n=1200): +0.228 [+0.142,+0.316] (34 subj x 21 frame x 24 cue); subj +0.456 adj +0.228
+  T3 adjective late (all, n=1200): -0.403 [-0.487,-0.327] (34 subj x 21 frame x 24 cue); early -0.319 middle -0.363; most negative L9 (-0.93)
+  T6 attractor late (all, n=1035): -0.260 [-0.311,-0.214] (44 subj x 21 frame x 25 cue); early -0.020 middle -0.083; most negative L9 (-0.54)
+  T7 attractor late (all, n=815): -0.217 [-0.289,-0.158] (10 subj x 21 frame x 33 cue); early -0.049 middle -0.045; most negative L9 (-0.50)
+  subject peak layer (all items): T2 L9; T3 L9; T6 L9; T7 L9
+[camelbert]
+  T2 subject-minus-adjective late (all, n=1200): +0.220 [+0.141,+0.303] (34 subj x 21 frame x 24 cue); subj +0.510 adj +0.289
+  T3 adjective late (all, n=1200): -0.309 [-0.391,-0.238] (34 subj x 21 frame x 24 cue); early -0.068 middle -0.207; most negative L8 (-0.45)
+  T6 attractor late (all, n=1035): -0.241 [-0.284,-0.203] (44 subj x 21 frame x 25 cue); early -0.032 middle -0.056; most negative L10 (-0.34)
+  T7 attractor late (all, n=815): -0.333 [-0.405,-0.272] (10 subj x 21 frame x 33 cue); early -0.054 middle -0.072; most negative L8 (-0.44)
+  subject peak layer (all items): T2 L9; T3 L10; T6 L9; T7 L9
+[arbert]
+  T2 subject-minus-adjective late (all, n=1132): +0.401 [+0.301,+0.510] (32 subj x 21 frame x 24 cue); subj +0.580 adj +0.179
+  T3 adjective late (all, n=1129): -0.457 [-0.578,-0.349] (32 subj x 21 frame x 24 cue); early -0.079 middle -0.224; most negative L8 (-0.79)
+  T6 attractor late (all, n=910): -0.270 [-0.334,-0.213] (42 subj x 21 frame x 23 cue); early -0.001 middle -0.042; most negative L9 (-0.36)
+  T7 attractor late (all, n=774): -0.306 [-0.392,-0.229] (10 subj x 21 frame x 31 cue); early -0.031 middle -0.059; most negative L10 (-0.47)
+  subject peak layer (all items): T2 L8; T3 L9; T6 L8; T7 L10
+[marbert]
+  T2 subject-minus-adjective late (all, n=954): +0.174 [+0.119,+0.237] (27 subj x 21 frame x 24 cue); subj +0.269 adj +0.095
+  T3 adjective late (all, n=953): -0.280 [-0.334,-0.234] (27 subj x 21 frame x 24 cue); early -0.267 middle -0.513; most negative L4 (-0.64)
+  T6 attractor late (all, n=662): -0.174 [-0.214,-0.136] (37 subj x 21 frame x 19 cue); early -0.066 middle -0.126; most negative L9 (-0.32)
+  T7 attractor late (all, n=603): -0.168 [-0.212,-0.129] (9 subj x 21 frame x 27 cue); early -0.100 middle -0.150; most negative L8 (-0.31)
+  subject peak layer (all items): T2 L8; T3 L8; T6 L8; T7 L8
+
+== R3. Replication set: repair (error items) and breaks (correct items) ==
+  arabert   T3 n_err=746 n_correct=454 late-minus-early (patch) +19.0 [+3.0,+35.7] (34 subj x 21 frame x 24 cue)
+            repair patch 0-3 39.9 / 4-7 60.5 / 8-11 59.0; break 8-11 0.0
+            repair zero  0-3 29.5 / 4-7 44.9 / 8-11 45.6; break 8-11 0.0
+            repair ctrl  0-3 18.2 / 4-7 10.1 / 8-11 8.8; break 8-11 14.1
+  arabert   T6 n_err=472 n_correct=563 late-minus-early (patch) +33.3 [+18.4,+49.9] (44 subj x 21 frame x 25 cue)
+            repair patch 0-3 13.8 / 4-7 15.7 / 8-11 47.0; break 8-11 0.0
+            repair zero  0-3 12.7 / 4-7 9.3 / 8-11 32.8; break 8-11 0.7
+            repair ctrl  0-3 8.1 / 4-7 8.7 / 8-11 11.7; break 8-11 7.5
+  arabert   T7 n_err=207 n_correct=608 late-minus-early (patch) +31.4 [+7.0,+54.1] (10 subj x 21 frame x 31 cue)
+            repair patch 0-3 27.1 / 4-7 24.6 / 8-11 58.5; break 8-11 0.2
+            repair zero  0-3 31.4 / 4-7 23.7 / 8-11 43.5; break 8-11 0.3
+            repair ctrl  0-3 15.0 / 4-7 13.5 / 8-11 16.9; break 8-11 4.4
+  camelbert T3 n_err=606 n_correct=594 late-minus-early (patch) +39.9 [+25.9,+55.9] (34 subj x 21 frame x 24 cue)
+            repair patch 0-3 13.4 / 4-7 35.0 / 8-11 53.3; break 8-11 0.0
+            repair zero  0-3 17.3 / 4-7 21.8 / 8-11 39.3; break 8-11 0.2
+            repair ctrl  0-3 8.6 / 4-7 10.1 / 8-11 6.1; break 8-11 5.6
+  camelbert T6 n_err=418 n_correct=617 late-minus-early (patch) +29.2 [+15.3,+45.5] (44 subj x 21 frame x 25 cue)
+            repair patch 0-3 16.5 / 4-7 15.1 / 8-11 45.7; break 8-11 0.2
+            repair zero  0-3 19.4 / 4-7 6.5 / 8-11 29.9; break 8-11 0.8
+            repair ctrl  0-3 7.4 / 4-7 16.0 / 8-11 13.9; break 8-11 8.8
+  camelbert T7 n_err=370 n_correct=445 late-minus-early (patch) +37.6 [+21.5,+54.4] (10 subj x 21 frame x 33 cue)
+            repair patch 0-3 14.6 / 4-7 15.1 / 8-11 52.2; break 8-11 0.0
+            repair zero  0-3 15.9 / 4-7 13.8 / 8-11 39.2; break 8-11 1.1
+            repair ctrl  0-3 8.9 / 4-7 14.6 / 8-11 10.3; break 8-11 7.6
+  arbert    T3 n_err=678 n_correct=451 late-minus-early (patch) +50.0 [+36.1,+63.5] (32 subj x 21 frame x 24 cue)
+            repair patch 0-3 14.5 / 4-7 39.4 / 8-11 64.5; break 8-11 0.0
+            repair zero  0-3 18.1 / 4-7 22.7 / 8-11 51.3; break 8-11 0.7
+            repair ctrl  0-3 7.7 / 4-7 6.8 / 8-11 7.7; break 8-11 14.2
+  arbert    T6 n_err=362 n_correct=548 late-minus-early (patch) +42.8 [+25.5,+61.1] (42 subj x 21 frame x 23 cue)
+            repair patch 0-3 13.3 / 4-7 13.5 / 8-11 56.1; break 8-11 0.2
+            repair zero  0-3 12.4 / 4-7 8.0 / 8-11 44.2; break 8-11 0.9
+            repair ctrl  0-3 10.8 / 4-7 11.9 / 8-11 18.2; break 8-11 15.3
+  arbert    T7 n_err=230 n_correct=544 late-minus-early (patch) +39.1 [+18.8,+60.3] (10 subj x 21 frame x 31 cue)
+            repair patch 0-3 18.3 / 4-7 15.7 / 8-11 57.4; break 8-11 0.4
+            repair zero  0-3 20.9 / 4-7 11.3 / 8-11 50.0; break 8-11 0.2
+            repair ctrl  0-3 14.3 / 4-7 7.0 / 8-11 15.7; break 8-11 7.9
+  marbert   T3 n_err=466 n_correct=487 late-minus-early (patch) +7.7 [-7.7,+23.1] (27 subj x 21 frame x 24 cue)
+            repair patch 0-3 41.0 / 4-7 74.0 / 8-11 48.7; break 8-11 0.0
+            repair zero  0-3 24.9 / 4-7 68.5 / 8-11 31.8; break 8-11 0.2
+            repair ctrl  0-3 17.0 / 4-7 11.8 / 8-11 8.4; break 8-11 7.4
+  marbert   T6 n_err=286 n_correct=376 late-minus-early (patch) +17.1 [+2.0,+35.7] (37 subj x 21 frame x 19 cue)
+            repair patch 0-3 20.3 / 4-7 33.6 / 8-11 37.4; break 8-11 0.5
+            repair zero  0-3 16.4 / 4-7 16.1 / 8-11 19.6; break 8-11 0.8
+            repair ctrl  0-3 6.3 / 4-7 5.2 / 8-11 9.8; break 8-11 4.0
+  marbert   T7 n_err=137 n_correct=466 late-minus-early (patch) +10.2 [-10.0,+33.3] (9 subj x 21 frame x 26 cue)
+            repair patch 0-3 30.7 / 4-7 40.1 / 8-11 40.9; break 8-11 0.2
+            repair zero  0-3 15.3 / 4-7 32.8 / 8-11 28.5; break 8-11 0.0
+            repair ctrl  0-3 20.4 / 4-7 14.6 / 8-11 13.9; break 8-11 2.1
+
+== R4. Cumulative windows (patch): repair % / gap closed, error items ==
+  main arabert   T3 n_err=682
+     prefix 0..k (k=0..11): 7/0.04 17/0.12 21/0.18 24/0.21 27/0.23 41/0.33 45/0.36 66/0.51 74/0.62 87/0.94 88/0.99 88/1.02
+     suffix k..11 (k=0..11): 88/1.02 87/1.01 87/1.01 87/1.01 86/1.00 85/0.97 84/0.91 81/0.79 65/0.55 53/0.40 9/0.09 1/0.02
+     zero: S0-11 80 S4-11 82 S8-11 47 P0-3 23 P0-7 55
+     suffix 8..11 minus suffix 0..11 (repair, pts): -23.3 [-35.1,-12.9] (34 subj x 21 frame x 11 cue)
+     prefix 0..7 repair: +66.0 [+50.2,+80.4]
+  main arabert   T6 n_err=598
+     prefix 0..k (k=0..11): 8/0.04 11/0.08 11/0.09 13/0.11 15/0.15 17/0.18 18/0.18 27/0.32 31/0.42 53/0.80 59/0.93 61/1.01
+     suffix k..11 (k=0..11): 61/1.01 60/0.97 58/0.95 58/0.93 57/0.91 56/0.89 55/0.84 55/0.83 48/0.69 43/0.59 19/0.21 8/0.08
+     zero: S0-11 35 S4-11 43 S8-11 35 P0-3 12 P0-7 18
+     suffix 8..11 minus suffix 0..11 (repair, pts): -12.7 [-22.8,-3.9] (44 subj x 21 frame x 8 cue)
+     prefix 0..7 repair: +26.6 [+15.4,+39.2]
+  main camelbert T3 n_err=569
+     prefix 0..k (k=0..11): 8/0.09 13/0.15 15/0.18 16/0.20 18/0.23 23/0.31 28/0.37 34/0.48 48/0.73 57/0.88 62/0.98 65/1.04
+     suffix k..11 (k=0..11): 65/1.04 64/1.03 63/1.03 63/1.02 62/1.03 61/1.02 60/0.98 55/0.88 50/0.75 27/0.37 16/0.19 5/0.06
+     zero: S0-11 49 S4-11 53 S8-11 36 P0-3 16 P0-7 25
+     suffix 8..11 minus suffix 0..11 (repair, pts): -15.3 [-25.6,-6.4] (34 subj x 21 frame x 11 cue)
+     prefix 0..7 repair: +34.4 [+19.6,+51.0]
+  main camelbert T6 n_err=516
+     prefix 0..k (k=0..11): 4/0.04 5/0.08 8/0.12 11/0.15 12/0.20 15/0.22 19/0.30 24/0.39 35/0.58 45/0.73 57/0.95 59/1.01
+     suffix k..11 (k=0..11): 59/1.01 58/0.98 57/0.96 56/0.94 55/0.92 53/0.88 53/0.86 51/0.79 45/0.68 33/0.45 23/0.25 7/0.04
+     zero: S0-11 30 S4-11 34 S8-11 28 P0-3 14 P0-7 16
+     suffix 8..11 minus suffix 0..11 (repair, pts): -14.1 [-26.3,-3.1] (44 subj x 21 frame x 8 cue)
+     prefix 0..7 repair: +24.0 [+14.1,+35.8]
+  main arbert    T3 n_err=633
+     prefix 0..k (k=0..11): 5/0.02 6/0.03 9/0.05 11/0.05 13/0.10 28/0.24 42/0.36 37/0.31 69/0.67 79/0.92 81/1.00 82/1.03
+     suffix k..11 (k=0..11): 82/1.03 80/1.03 80/1.02 79/1.00 79/1.00 79/0.99 77/0.90 71/0.72 70/0.67 45/0.39 21/0.17 5/0.04
+     zero: S0-11 78 S4-11 77 S8-11 56 P0-3 10 P0-7 26
+     suffix 8..11 minus suffix 0..11 (repair, pts): -11.8 [-21.8,-3.6] (32 subj x 21 frame x 11 cue)
+     prefix 0..7 repair: +37.0 [+23.9,+51.2]
+  main arbert    T6 n_err=470
+     prefix 0..k (k=0..11): 6/0.05 9/0.07 12/0.11 11/0.10 14/0.14 25/0.25 29/0.29 21/0.22 38/0.47 59/0.77 68/0.96 70/1.02
+     suffix k..11 (k=0..11): 70/1.02 67/0.99 67/0.98 64/0.95 65/0.95 64/0.93 61/0.87 60/0.79 59/0.77 49/0.57 29/0.31 11/0.08
+     zero: S0-11 43 S4-11 47 S8-11 45 P0-3 19 P0-7 13
+     suffix 8..11 minus suffix 0..11 (repair, pts): -11.1 [-21.1,-2.2] (42 subj x 21 frame x 8 cue)
+     prefix 0..7 repair: +21.1 [+11.5,+32.9]
+  main marbert   T3 n_err=459
+     prefix 0..k (k=0..11): 2/0.00 4/0.04 15/0.12 27/0.26 40/0.37 50/0.49 66/0.64 72/0.75 76/0.88 81/1.04 81/1.04 81/1.04
+     suffix k..11 (k=0..11): 81/1.04 81/1.04 81/1.02 80/1.01 79/0.99 76/0.89 71/0.77 63/0.62 47/0.42 20/0.16 1/0.01 1/0.01
+     zero: S0-11 80 S4-11 73 S8-11 29 P0-3 18 P0-7 72
+     suffix 8..11 minus suffix 0..11 (repair, pts): -34.0 [-47.4,-21.1] (27 subj x 21 frame x 11 cue)
+     prefix 0..7 repair: +72.1 [+55.4,+86.4]
+  main marbert   T6 n_err=465
+     prefix 0..k (k=0..11): 2/0.00 6/0.03 11/0.10 20/0.20 24/0.24 31/0.35 43/0.49 49/0.59 57/0.77 65/1.00 65/1.01 66/1.02
+     suffix k..11 (k=0..11): 66/1.02 65/1.02 65/1.00 63/0.97 62/0.92 58/0.89 54/0.76 49/0.63 43/0.52 23/0.26 4/0.04 2/0.02
+     zero: S0-11 38 S4-11 50 S8-11 30 P0-3 11 P0-7 26
+     suffix 8..11 minus suffix 0..11 (repair, pts): -22.2 [-34.7,-10.7] (37 subj x 21 frame x 8 cue)
+     prefix 0..7 repair: +48.6 [+30.6,+65.3]
+  rep  arabert   T3 n_err=746
+     prefix 0..k (k=0..11): 11/0.07 23/0.17 35/0.26 40/0.31 41/0.32 56/0.41 61/0.44 76/0.57 82/0.67 90/0.94 91/0.99 91/1.01
+     suffix k..11 (k=0..11): 91/1.01 92/1.01 92/1.01 92/1.01 92/0.99 91/0.96 88/0.88 79/0.72 59/0.46 49/0.33 11/0.08 2/0.01
+     zero: S0-11 82 S4-11 85 S8-11 46 P0-3 29 P0-7 61
+     suffix 8..11 minus suffix 0..11 (repair, pts): -32.4 [-45.5,-20.3] (34 subj x 21 frame x 24 cue)
+     prefix 0..7 repair: +75.9 [+63.8,+86.3]
+  rep  arabert   T6 n_err=472
+     prefix 0..k (k=0..11): 5/0.02 8/0.05 11/0.07 14/0.12 17/0.16 19/0.20 20/0.21 26/0.35 30/0.44 48/0.80 54/0.94 55/1.02
+     suffix k..11 (k=0..11): 55/1.02 54/1.00 54/0.99 54/0.98 53/0.97 52/0.95 51/0.91 52/0.90 47/0.73 43/0.62 21/0.25 8/0.10
+     zero: S0-11 34 S4-11 40 S8-11 33 P0-3 13 P0-7 19
+     suffix 8..11 minus suffix 0..11 (repair, pts): -7.8 [-17.1,+0.2] (44 subj x 21 frame x 25 cue)
+     prefix 0..7 repair: +25.6 [+14.1,+39.3]
+  rep  arabert   T7 n_err=207
+     prefix 0..k (k=0..11): 14/0.11 22/0.18 26/0.23 27/0.24 31/0.28 31/0.32 31/0.29 44/0.47 50/0.57 64/0.88 68/0.99 69/1.03
+     suffix k..11 (k=0..11): 69/1.03 69/0.98 66/0.96 67/0.95 69/0.94 66/0.91 65/0.87 65/0.87 58/0.66 49/0.54 20/0.19 6/0.05
+     zero: S0-11 71 S4-11 70 S8-11 43 P0-3 31 P0-7 41
+     suffix 8..11 minus suffix 0..11 (repair, pts): -10.1 [-27.6,+5.0] (10 subj x 21 frame x 31 cue)
+     prefix 0..7 repair: +44.0 [+23.8,+64.5]
+  rep  camelbert T3 n_err=606
+     prefix 0..k (k=0..11): 8/0.09 10/0.11 12/0.14 13/0.15 17/0.19 26/0.29 31/0.37 40/0.48 53/0.69 60/0.85 66/0.98 67/1.03
+     suffix k..11 (k=0..11): 67/1.03 66/1.02 66/1.02 66/1.01 66/1.01 65/1.01 64/0.97 59/0.85 53/0.71 32/0.38 19/0.19 4/0.04
+     zero: S0-11 49 S4-11 54 S8-11 39 P0-3 17 P0-7 27
+     suffix 8..11 minus suffix 0..11 (repair, pts): -13.5 [-23.0,-5.8] (34 subj x 21 frame x 24 cue)
+     prefix 0..7 repair: +40.4 [+25.3,+56.4]
+  rep  camelbert T6 n_err=418
+     prefix 0..k (k=0..11): 8/0.04 13/0.11 15/0.15 17/0.19 18/0.22 19/0.24 22/0.28 24/0.37 31/0.55 42/0.75 50/0.96 52/1.01
+     suffix k..11 (k=0..11): 52/1.01 52/1.01 51/0.99 51/0.97 50/0.96 50/0.95 50/0.95 48/0.90 46/0.80 36/0.58 25/0.32 6/0.06
+     zero: S0-11 26 S4-11 28 S8-11 30 P0-3 19 P0-7 16
+     suffix 8..11 minus suffix 0..11 (repair, pts): -6.0 [-16.6,+3.4] (44 subj x 21 frame x 25 cue)
+     prefix 0..7 repair: +23.7 [+12.4,+38.2]
+  rep  camelbert T7 n_err=370
+     prefix 0..k (k=0..11): 9/0.10 11/0.14 15/0.16 15/0.18 18/0.21 20/0.23 20/0.22 25/0.33 37/0.56 47/0.78 56/0.96 57/1.00
+     suffix k..11 (k=0..11): 57/1.00 56/0.99 57/0.98 56/0.97 55/0.96 54/0.95 55/0.95 56/0.95 52/0.84 40/0.57 18/0.27 4/0.05
+     zero: S0-11 51 S4-11 51 S8-11 39 P0-3 16 P0-7 22
+     suffix 8..11 minus suffix 0..11 (repair, pts): -4.9 [-14.2,+4.3] (10 subj x 21 frame x 33 cue)
+     prefix 0..7 repair: +24.9 [+11.8,+40.9]
+  rep  arbert    T3 n_err=678
+     prefix 0..k (k=0..11): 7/0.05 9/0.07 13/0.10 14/0.10 19/0.15 35/0.31 52/0.46 45/0.40 73/0.73 81/0.93 82/1.00 83/1.02
+     suffix k..11 (k=0..11): 83/1.02 82/1.01 83/1.01 82/0.99 81/0.98 81/0.97 79/0.86 67/0.63 64/0.59 38/0.32 18/0.15 3/0.03
+     zero: S0-11 76 S4-11 79 S8-11 51 P0-3 18 P0-7 35
+     suffix 8..11 minus suffix 0..11 (repair, pts): -18.1 [-29.8,-8.8] (32 subj x 21 frame x 24 cue)
+     prefix 0..7 repair: +45.0 [+30.2,+59.9]
+  rep  arbert    T6 n_err=362
+     prefix 0..k (k=0..11): 6/0.02 10/0.04 13/0.07 13/0.06 16/0.08 20/0.16 22/0.20 19/0.15 34/0.41 53/0.77 59/0.96 62/1.03
+     suffix k..11 (k=0..11): 62/1.03 61/1.02 61/1.00 60/0.97 60/0.98 60/0.97 59/0.91 55/0.83 56/0.81 50/0.63 29/0.35 9/0.09
+     zero: S0-11 36 S4-11 48 S8-11 44 P0-3 12 P0-7 14
+     suffix 8..11 minus suffix 0..11 (repair, pts): -5.5 [-16.8,+3.9] (42 subj x 21 frame x 23 cue)
+     prefix 0..7 repair: +18.8 [+8.0,+32.5]
+  rep  arbert    T7 n_err=230
+     prefix 0..k (k=0..11): 8/0.05 10/0.08 15/0.14 18/0.16 20/0.21 28/0.29 33/0.34 27/0.29 42/0.48 60/0.75 64/0.93 66/0.98
+     suffix k..11 (k=0..11): 66/0.98 66/0.96 64/0.95 62/0.92 62/0.92 61/0.90 61/0.85 57/0.78 57/0.76 48/0.59 34/0.36 8/0.07
+     zero: S0-11 60 S4-11 62 S8-11 50 P0-3 21 P0-7 20
+     suffix 8..11 minus suffix 0..11 (repair, pts): -8.3 [-22.1,+1.4] (10 subj x 21 frame x 31 cue)
+     prefix 0..7 repair: +26.5 [+13.2,+43.1]
+  rep  marbert   T3 n_err=466
+     prefix 0..k (k=0..11): 3/0.01 9/0.07 25/0.23 41/0.38 50/0.47 60/0.57 73/0.70 77/0.78 80/0.88 83/1.02 83/1.02 83/1.02
+     suffix k..11 (k=0..11): 83/1.02 83/1.02 83/1.02 82/1.00 82/0.98 79/0.86 73/0.74 64/0.60 49/0.40 21/0.15 2/0.01 1/0.00
+     zero: S0-11 79 S4-11 76 S8-11 32 P0-3 25 P0-7 72
+     suffix 8..11 minus suffix 0..11 (repair, pts): -34.1 [-49.2,-19.8] (27 subj x 21 frame x 24 cue)
+     prefix 0..7 repair: +77.3 [+60.1,+91.0]
+  rep  marbert   T6 n_err=286
+     prefix 0..k (k=0..11): 2/0.01 6/0.04 10/0.12 20/0.28 26/0.36 31/0.45 42/0.58 47/0.66 51/0.83 55/1.01 56/1.02 55/1.03
+     suffix k..11 (k=0..11): 55/1.03 56/1.03 56/1.02 55/0.99 52/0.95 51/0.90 47/0.78 43/0.64 37/0.52 20/0.26 3/0.04 2/0.02
+     zero: S0-11 36 S4-11 42 S8-11 20 P0-3 16 P0-7 26
+     suffix 8..11 minus suffix 0..11 (repair, pts): -17.8 [-30.8,-7.2] (37 subj x 21 frame x 19 cue)
+     prefix 0..7 repair: +46.5 [+25.5,+68.1]
+  rep  marbert   T7 n_err=137
+     prefix 0..k (k=0..11): 7/0.02 12/0.09 15/0.20 31/0.38 35/0.43 42/0.51 50/0.67 53/0.77 57/0.89 63/1.05 64/1.05 64/1.06
+     suffix k..11 (k=0..11): 64/1.06 64/1.05 64/1.03 64/0.98 57/0.90 54/0.84 50/0.75 46/0.63 41/0.47 23/0.22 7/0.03 1/0.01
+     zero: S0-11 58 S4-11 47 S8-11 28 P0-3 15 P0-7 45
+     suffix 8..11 minus suffix 0..11 (repair, pts): -22.6 [-45.4,-3.5] (9 subj x 21 frame x 26 cue)
+     prefix 0..7 repair: +52.6 [+27.1,+80.3]
+
+== R5. Cue hidden-state patching by layer (l=-1 embedding): repair % / gap closed ==
+  main arabert   T3 n_err=682: 88/1.00 88/1.00 87/1.00 87/1.00 86/0.99 84/0.97 83/0.89 78/0.75 62/0.50 45/0.34 8/0.08 1/0.01 0/0.00
+  main arabert   T6 n_err=598: 60/1.00 58/0.95 57/0.92 56/0.91 55/0.88 54/0.86 52/0.81 53/0.80 46/0.66 40/0.55 18/0.21 8/0.08 0/0.00
+  main camelbert T3 n_err=569: 62/1.00 61/0.99 60/0.98 59/0.97 60/0.97 58/0.96 57/0.91 52/0.80 45/0.66 25/0.34 15/0.17 6/0.05 0/0.00
+  main camelbert T6 n_err=516: 59/1.00 57/0.96 56/0.93 54/0.91 54/0.89 53/0.86 52/0.85 50/0.78 44/0.65 31/0.42 21/0.24 7/0.04 0/0.00
+  main arbert    T3 n_err=633: 80/1.00 79/0.99 80/0.99 79/0.98 79/0.98 78/0.96 76/0.85 67/0.66 65/0.59 37/0.30 16/0.13 4/0.03 0/0.00
+  main arbert    T6 n_err=470: 67/1.00 66/0.97 66/0.95 65/0.93 65/0.92 64/0.91 60/0.84 57/0.75 57/0.73 44/0.52 28/0.29 11/0.07 0/0.00
+  main marbert   T3 n_err=459: 79/1.00 80/1.00 79/0.98 79/0.97 78/0.97 74/0.85 69/0.73 59/0.56 42/0.36 15/0.11 2/0.00 1/0.00 0/0.00
+  main marbert   T6 n_err=465: 66/1.00 65/0.99 66/0.97 65/0.93 60/0.88 58/0.84 54/0.73 48/0.59 41/0.48 23/0.25 3/0.03 2/0.01 0/0.00
+  rep  arabert   T3 n_err=746: 92/1.00 92/1.00 92/0.99 92/0.99 91/0.97 90/0.95 86/0.85 76/0.67 56/0.41 44/0.28 9/0.07 1/0.01 0/0.00
+  rep  arabert   T6 n_err=472: 53/1.00 53/0.98 52/0.97 52/0.96 51/0.93 51/0.91 51/0.88 51/0.87 46/0.72 41/0.58 20/0.24 7/0.09 0/0.00
+  rep  arabert   T7 n_err=207: 67/1.00 67/0.95 66/0.94 68/0.93 66/0.92 65/0.89 62/0.84 60/0.85 56/0.62 46/0.50 18/0.18 6/0.04 0/0.00
+  rep  camelbert T3 n_err=606: 65/1.00 65/0.99 64/0.98 63/0.97 63/0.96 62/0.95 60/0.90 55/0.78 48/0.64 30/0.35 17/0.17 3/0.03 0/0.00
+  rep  camelbert T6 n_err=418: 51/1.00 50/0.98 50/0.97 49/0.93 49/0.92 48/0.92 49/0.92 48/0.88 43/0.77 34/0.54 24/0.31 6/0.06 0/0.00
+  rep  camelbert T7 n_err=370: 56/1.00 57/0.98 56/0.98 55/0.96 55/0.95 54/0.93 54/0.93 56/0.93 52/0.83 40/0.56 18/0.26 4/0.04 0/0.00
+  rep  arbert    T3 n_err=678: 83/1.00 82/0.99 82/0.99 81/0.97 81/0.96 81/0.95 77/0.82 64/0.58 60/0.52 31/0.24 14/0.11 3/0.02 0/0.00
+  rep  arbert    T6 n_err=362: 59/1.00 59/0.98 59/0.97 58/0.94 57/0.94 58/0.94 57/0.88 54/0.80 54/0.78 45/0.58 28/0.32 8/0.07 0/0.00
+  rep  arbert    T7 n_err=230: 65/1.00 65/0.97 63/0.97 62/0.92 61/0.90 60/0.88 59/0.82 55/0.74 52/0.71 47/0.54 32/0.33 6/0.05 0/0.00
+  rep  marbert   T3 n_err=466: 82/1.00 83/1.00 82/0.98 82/0.97 81/0.95 75/0.81 70/0.69 60/0.53 43/0.33 15/0.11 2/0.00 1/0.00 0/0.00
+  rep  marbert   T6 n_err=286: 56/1.00 56/1.00 57/0.98 54/0.95 52/0.90 51/0.84 48/0.73 42/0.58 36/0.47 17/0.24 3/0.04 2/0.01 0/0.00
+  rep  marbert   T7 n_err=137: 61/1.00 61/0.99 61/0.96 60/0.92 51/0.83 47/0.77 47/0.69 42/0.56 36/0.40 21/0.18 4/0.02 0/0.01 0/0.00
+
+== R6. Main set: gap closed by the fixed-window repair (error items) ==
+  arabert   T3 n_err=682: patch 0-3 0.21 / 4-7 0.39 / 8-11 0.55; zero 0-3 0.20 / 4-7 0.30 / 8-11 0.34; ctrl 0-3 0.09 / 4-7 0.05 / 8-11 0.02
+  arabert   T6 n_err=598: patch 0-3 0.11 / 4-7 0.22 / 8-11 0.69; zero 0-3 0.11 / 4-7 0.05 / 8-11 0.43; ctrl 0-3 -0.11 / 4-7 -0.06 / 8-11 0.05
+  camelbert T3 n_err=569: patch 0-3 0.20 / 4-7 0.36 / 8-11 0.75; zero 0-3 0.18 / 4-7 0.22 / 8-11 0.47; ctrl 0-3 0.08 / 4-7 0.11 / 8-11 0.08
+  camelbert T6 n_err=516: patch 0-3 0.15 / 4-7 0.28 / 8-11 0.68; zero 0-3 0.19 / 4-7 0.03 / 8-11 0.39; ctrl 0-3 0.02 / 4-7 0.14 / 8-11 0.10
+  arbert    T3 n_err=633: patch 0-3 0.05 / 4-7 0.26 / 8-11 0.67; zero 0-3 0.05 / 4-7 0.12 / 8-11 0.49; ctrl 0-3 0.03 / 4-7 0.03 / 8-11 0.04
+  arbert    T6 n_err=470: patch 0-3 0.10 / 4-7 0.14 / 8-11 0.77; zero 0-3 0.17 / 4-7 -0.02 / 8-11 0.50; ctrl 0-3 0.00 / 4-7 -0.04 / 8-11 0.07
+  marbert   T3 n_err=459: patch 0-3 0.26 / 4-7 0.66 / 8-11 0.42; zero 0-3 0.15 / 4-7 0.61 / 8-11 0.22; ctrl 0-3 0.06 / 4-7 0.04 / 8-11 0.04
+  marbert   T6 n_err=465: patch 0-3 0.20 / 4-7 0.42 / 8-11 0.52; zero 0-3 0.05 / 4-7 0.11 / 8-11 0.28; ctrl 0-3 -0.06 / 4-7 -0.08 / 8-11 0.11
+
+== R7. Name vs common-noun attractors: repair (patch, 8-11) and accuracy ==
+  main arabert   noun: acc 49.2 (n=726), repair 52.8 (n_err=369); name: acc 51.7 (n=474), repair 39.7 (n_err=229)
+  rep  arabert   T6 name: acc 55.6 (n=293), repair 44.6 (n_err=130); noun: acc 53.9 (n=742), repair 48.0 (n_err=342)
+  rep  arabert   T7 name: acc 70.3 (n=236), repair 44.3 (n_err=70); noun: acc 76.3 (n=579), repair 65.7 (n_err=137)
+  main camelbert noun: acc 58.4 (n=726), repair 54.6 (n_err=302); name: acc 54.9 (n=474), repair 32.2 (n_err=214)
+  rep  camelbert T6 name: acc 59.7 (n=293), repair 35.6 (n_err=118); noun: acc 59.6 (n=742), repair 49.7 (n_err=300)
+  rep  camelbert T7 name: acc 48.3 (n=236), repair 40.2 (n_err=122); noun: acc 57.2 (n=579), repair 58.1 (n_err=248)
+  main arbert    noun: acc 59.9 (n=684), repair 65.3 (n_err=274); name: acc 57.4 (n=460), repair 49.0 (n_err=196)
+  rep  arbert    T6 name: acc 56.1 (n=278), repair 52.5 (n_err=122); noun: acc 62.0 (n=632), repair 57.9 (n_err=240)
+  rep  arbert    T7 name: acc 54.7 (n=236), repair 56.1 (n_err=107); noun: acc 77.1 (n=538), repair 58.5 (n_err=123)
+  main marbert   noun: acc 51.4 (n=603), repair 44.4 (n_err=293); name: acc 57.4 (n=404), repair 41.9 (n_err=172)
+  rep  marbert   T6 name: acc 57.7 (n=248), repair 36.2 (n_err=105); noun: acc 56.3 (n=414), repair 38.1 (n_err=181)
+  rep  marbert   T7 name: acc 71.2 (n=215), repair 32.3 (n_err=62); noun: acc 80.7 (n=388), repair 48.0 (n_err=75)
+
+== R8. Treebank attractor (PADT): gender-only patch ==
+  arabert   n_err=36 n_correct=372
+     patch repair %/gap: L0-3 5.6/0.23; L4-7 2.8/0.18; L8-11 27.8/0.72; L5-11 30.6/0.88; S0-11 33.3/0.98; S4-11 33.3/0.91; S8-11 27.8/0.72; break 8-11 0.5
+     zero  repair %/gap: L0-3 33.3/0.78; L4-7 2.8/0.16; L8-11 22.2/0.51; L5-11 44.4/0.81; S0-11 41.7/0.70; S4-11 44.4/0.84; S8-11 22.2/0.51; break 8-11 0.8
+     late-minus-early repair (patch, pts, item bootstrap seed 50): +22.2 [+8.3,+38.9]
+     cue hidden state by layer: 33/1.00 33/1.00 33/0.98 33/0.97 28/0.93 28/0.92 28/0.90 25/0.87 25/0.72 22/0.49 6/0.12 3/0.03 0/0.00
+     gap closed, all items, patch 8-11: 0.78
+  camelbert n_err=38 n_correct=370
+     patch repair %/gap: L0-3 15.8/0.13; L4-7 15.8/0.21; L8-11 31.6/0.84; L5-11 28.9/0.91; S0-11 34.2/0.98; S4-11 34.2/0.95; S8-11 31.6/0.84; break 8-11 0.5
+     zero  repair %/gap: L0-3 36.8/0.82; L4-7 28.9/0.41; L8-11 39.5/0.66; L5-11 39.5/1.11; S0-11 44.7/1.21; S4-11 42.1/1.15; S8-11 39.5/0.66; break 8-11 0.8
+     late-minus-early repair (patch, pts, item bootstrap seed 50): +15.8 [+2.6,+28.9]
+     cue hidden state by layer: 32/1.00 32/1.01 32/1.02 32/1.01 32/1.00 34/0.93 32/0.94 32/0.91 32/0.84 26/0.67 16/0.29 3/0.05 0/0.00
+     gap closed, all items, patch 8-11: 1.01
+  arbert    n_err=42 n_correct=366
+     patch repair %/gap: L0-3 0.0/0.14; L4-7 0.0/0.13; L8-11 21.4/0.82; L5-11 21.4/0.89; S0-11 21.4/0.95; S4-11 21.4/0.90; S8-11 21.4/0.82; break 8-11 0.5
+     zero  repair %/gap: L0-3 14.3/0.63; L4-7 11.9/0.29; L8-11 42.9/0.93; L5-11 42.9/1.10; S0-11 33.3/0.83; S4-11 42.9/1.13; S8-11 42.9/0.93; break 8-11 0.0
+     late-minus-early repair (patch, pts, item bootstrap seed 50): +21.4 [+9.5,+35.7]
+     cue hidden state by layer: 24/1.00 24/1.00 24/1.00 24/0.96 21/0.94 21/0.89 21/0.85 21/0.82 21/0.82 17/0.57 10/0.31 7/0.13 0/0.00
+     gap closed, all items, patch 8-11: 0.90
+  marbert   n_err=93 n_correct=315
+     patch repair %/gap: L0-3 14.0/0.30; L4-7 22.6/0.46; L8-11 12.9/0.25; L5-11 29.0/0.67; S0-11 40.9/0.99; S4-11 34.4/0.75; S8-11 12.9/0.25; break 8-11 0.0
+     zero  repair %/gap: L0-3 17.2/0.32; L4-7 24.7/0.50; L8-11 24.7/0.29; L5-11 39.8/0.80; S0-11 41.9/0.74; S4-11 46.2/0.94; S8-11 24.7/0.29; break 8-11 1.9
+     late-minus-early repair (patch, pts, item bootstrap seed 50): -1.1 [-8.6,+6.5]
+     cue hidden state by layer: 45/1.00 43/1.00 43/0.96 40/0.88 37/0.77 31/0.66 24/0.54 18/0.36 15/0.23 8/0.10 2/0.04 0/0.01 0/0.00
+     gap closed, all items, patch 8-11: 0.33
+

@@ -1,0 +1,6536 @@
+{
+  "vp_frames": [
+    {
+      "masc": "كتب",
+      "fem": "كتبت",
+      "comp": "الرسالة",
+      "gloss": "wrote the letter",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            2739
+          ],
+          "fem_ids": [
+            8961
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "كتب"
+          ],
+          "fem_pieces": [
+            "كتبت"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            3199
+          ],
+          "fem_ids": [
+            8968
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "كتب"
+          ],
+          "fem_pieces": [
+            "كتبت"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "قرأ",
+      "fem": "قرأت",
+      "comp": "الكتاب",
+      "gloss": "read the book",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            14340
+          ],
+          "fem_ids": [
+            16780
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "قرأ"
+          ],
+          "fem_pieces": [
+            "قرأت"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            13337
+          ],
+          "fem_ids": [
+            17954
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "قرأ"
+          ],
+          "fem_pieces": [
+            "قرأت"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "دخل",
+      "fem": "دخلت",
+      "comp": "الغرفة",
+      "gloss": "entered the room",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            2792
+          ],
+          "fem_ids": [
+            7666
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "دخل"
+          ],
+          "fem_pieces": [
+            "دخلت"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            4896
+          ],
+          "fem_ids": [
+            8434
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "دخل"
+          ],
+          "fem_pieces": [
+            "دخلت"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "خرج",
+      "fem": "خرجت",
+      "comp": "من البيت",
+      "gloss": "left the house",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            5626
+          ],
+          "fem_ids": [
+            8924
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "خرج"
+          ],
+          "fem_pieces": [
+            "خرجت"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            5491
+          ],
+          "fem_ids": [
+            11771
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "خرج"
+          ],
+          "fem_pieces": [
+            "خرجت"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "ذهب",
+      "fem": "ذهبت",
+      "comp": "إلى السوق",
+      "gloss": "went to the market",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            6533
+          ],
+          "fem_ids": [
+            11294
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "ذهب"
+          ],
+          "fem_pieces": [
+            "ذهبت"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            6324
+          ],
+          "fem_ids": [
+            13972
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "ذهب"
+          ],
+          "fem_pieces": [
+            "ذهبت"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "وصل",
+      "fem": "وصلت",
+      "comp": "إلى المدينة",
+      "gloss": "arrived at the city",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            1756
+          ],
+          "fem_ids": [
+            3717
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "وصل"
+          ],
+          "fem_pieces": [
+            "وصلت"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            4810
+          ],
+          "fem_ids": [
+            6242
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "وصل"
+          ],
+          "fem_pieces": [
+            "وصلت"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "ركب",
+      "fem": "ركبت",
+      "comp": "الحافلة",
+      "gloss": "rode the bus",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            20154
+          ],
+          "fem_ids": [
+            20154,
+            228
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "ركب"
+          ],
+          "fem_pieces": [
+            "ركب",
+            "##ت"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            22633
+          ],
+          "fem_ids": [
+            22633,
+            1005
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "ركب"
+          ],
+          "fem_pieces": [
+            "ركب",
+            "##ت"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": false,
+        "camelbert": false
+      },
+      "group": "NONE",
+      "tier": "F"
+    },
+    {
+      "masc": "حضر",
+      "fem": "حضرت",
+      "comp": "الاجتماع",
+      "gloss": "attended the meeting",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            3420
+          ],
+          "fem_ids": [
+            15281
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "حضر"
+          ],
+          "fem_pieces": [
+            "حضرت"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            8444
+          ],
+          "fem_ids": [
+            20834
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "حضر"
+          ],
+          "fem_pieces": [
+            "حضرت"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "شاهد",
+      "fem": "شاهدت",
+      "comp": "الفيلم",
+      "gloss": "watched the film",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            4735
+          ],
+          "fem_ids": [
+            21584
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "شاهد"
+          ],
+          "fem_pieces": [
+            "شاهدت"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            4459
+          ],
+          "fem_ids": [
+            26751
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "شاهد"
+          ],
+          "fem_pieces": [
+            "شاهدت"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "سمع",
+      "fem": "سمعت",
+      "comp": "الخبر",
+      "gloss": "heard the news",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            9020
+          ],
+          "fem_ids": [
+            13960
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "سمع"
+          ],
+          "fem_pieces": [
+            "سمعت"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            3993
+          ],
+          "fem_ids": [
+            6576
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "سمع"
+          ],
+          "fem_pieces": [
+            "سمعت"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "فتح",
+      "fem": "فتحت",
+      "comp": "الباب",
+      "gloss": "opened the door",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            2165
+          ],
+          "fem_ids": [
+            11306
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "فتح"
+          ],
+          "fem_pieces": [
+            "فتحت"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            4131
+          ],
+          "fem_ids": [
+            12619
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "فتح"
+          ],
+          "fem_pieces": [
+            "فتحت"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "أكل",
+      "fem": "أكلت",
+      "comp": "الطعام",
+      "gloss": "ate the food",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            16252
+          ],
+          "fem_ids": [
+            16252,
+            228
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "أكل"
+          ],
+          "fem_pieces": [
+            "أكل",
+            "##ت"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            17780
+          ],
+          "fem_ids": [
+            17780,
+            1005
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "أكل"
+          ],
+          "fem_pieces": [
+            "أكل",
+            "##ت"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": false,
+        "camelbert": false
+      },
+      "group": "NONE",
+      "tier": "F"
+    },
+    {
+      "masc": "شرب",
+      "fem": "شربت",
+      "comp": "القهوة",
+      "gloss": "drank the coffee",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            12783
+          ],
+          "fem_ids": [
+            58434
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "شرب"
+          ],
+          "fem_pieces": [
+            "شربت"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            10055
+          ],
+          "fem_ids": [
+            10055,
+            1005
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "شرب"
+          ],
+          "fem_pieces": [
+            "شرب",
+            "##ت"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": false
+      },
+      "group": "ARA",
+      "tier": "ARA"
+    },
+    {
+      "masc": "درس",
+      "fem": "درست",
+      "comp": "الدرس",
+      "gloss": "studied the lesson",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            10063
+          ],
+          "fem_ids": [
+            25934
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "درس"
+          ],
+          "fem_pieces": [
+            "درست"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            9411
+          ],
+          "fem_ids": [
+            9411,
+            1005
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "درس"
+          ],
+          "fem_pieces": [
+            "درس",
+            "##ت"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": false
+      },
+      "group": "ARA",
+      "tier": "ARA"
+    },
+    {
+      "masc": "حمل",
+      "fem": "حملت",
+      "comp": "الحقيبة",
+      "gloss": "carried the bag",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            2847
+          ],
+          "fem_ids": [
+            12017
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "حمل"
+          ],
+          "fem_pieces": [
+            "حملت"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            7493
+          ],
+          "fem_ids": [
+            18550
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "حمل"
+          ],
+          "fem_pieces": [
+            "حملت"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "طلب",
+      "fem": "طلبت",
+      "comp": "المساعدة",
+      "gloss": "asked for help",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            1667
+          ],
+          "fem_ids": [
+            8187
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "طلب"
+          ],
+          "fem_pieces": [
+            "طلبت"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            2922
+          ],
+          "fem_ids": [
+            13212
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "طلب"
+          ],
+          "fem_pieces": [
+            "طلبت"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "وجد",
+      "fem": "وجدت",
+      "comp": "المفتاح",
+      "gloss": "found the key",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            3706
+          ],
+          "fem_ids": [
+            6295
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "وجد"
+          ],
+          "fem_pieces": [
+            "وجدت"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            5446
+          ],
+          "fem_ids": [
+            8198
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "وجد"
+          ],
+          "fem_pieces": [
+            "وجدت"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "ترك",
+      "fem": "تركت",
+      "comp": "المكتب",
+      "gloss": "left the office",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            1366
+          ],
+          "fem_ids": [
+            14924
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "ترك"
+          ],
+          "fem_pieces": [
+            "تركت"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            2742
+          ],
+          "fem_ids": [
+            14700
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "ترك"
+          ],
+          "fem_pieces": [
+            "تركت"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "زار",
+      "fem": "زارت",
+      "comp": "المتحف",
+      "gloss": "visited the museum",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            6878
+          ],
+          "fem_ids": [
+            26597
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "زار"
+          ],
+          "fem_pieces": [
+            "زارت"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            12404
+          ],
+          "fem_ids": [
+            12404,
+            1005
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "زار"
+          ],
+          "fem_pieces": [
+            "زار",
+            "##ت"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": false
+      },
+      "group": "ARA",
+      "tier": "ARA"
+    },
+    {
+      "masc": "باع",
+      "fem": "باعت",
+      "comp": "السيارة",
+      "gloss": "sold the car",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            6661
+          ],
+          "fem_ids": [
+            2912
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "باع"
+          ],
+          "fem_pieces": [
+            "باعت"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            6666
+          ],
+          "fem_ids": [
+            6674
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "باع"
+          ],
+          "fem_pieces": [
+            "باعت"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "قال",
+      "fem": "قالت",
+      "comp": "الحقيقة",
+      "gloss": "told the truth",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            754
+          ],
+          "fem_ids": [
+            2595
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "قال"
+          ],
+          "fem_pieces": [
+            "قالت"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            2136
+          ],
+          "fem_ids": [
+            4508
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "قال"
+          ],
+          "fem_pieces": [
+            "قالت"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "عرف",
+      "fem": "عرفت",
+      "comp": "الجواب",
+      "gloss": "knew the answer",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            2972
+          ],
+          "fem_ids": [
+            10463
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "عرف"
+          ],
+          "fem_pieces": [
+            "عرفت"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            4001
+          ],
+          "fem_ids": [
+            7813
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "عرف"
+          ],
+          "fem_pieces": [
+            "عرفت"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "لبس",
+      "fem": "لبست",
+      "comp": "المعطف",
+      "gloss": "wore the coat",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            24708
+          ],
+          "fem_ids": [
+            24708,
+            228
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "لبس"
+          ],
+          "fem_pieces": [
+            "لبس",
+            "##ت"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            12976
+          ],
+          "fem_ids": [
+            12976,
+            1005
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "لبس"
+          ],
+          "fem_pieces": [
+            "لبس",
+            "##ت"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": false,
+        "camelbert": false
+      },
+      "group": "NONE",
+      "tier": "F"
+    },
+    {
+      "masc": "غسل",
+      "fem": "غسلت",
+      "comp": "الملابس",
+      "gloss": "washed the clothes",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            17517
+          ],
+          "fem_ids": [
+            17517,
+            228
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "غسل"
+          ],
+          "fem_pieces": [
+            "غسل",
+            "##ت"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            13726
+          ],
+          "fem_ids": [
+            13726,
+            1005
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "غسل"
+          ],
+          "fem_pieces": [
+            "غسل",
+            "##ت"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": false,
+        "camelbert": false
+      },
+      "group": "NONE",
+      "tier": "F"
+    },
+    {
+      "masc": "طبخ",
+      "fem": "طبخت",
+      "comp": "الطعام",
+      "gloss": "cooked the food",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            2434,
+            200
+          ],
+          "fem_ids": [
+            2434,
+            531
+          ],
+          "masc_ntok": 2,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "طب",
+            "##خ"
+          ],
+          "fem_pieces": [
+            "طب",
+            "##خت"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            11670
+          ],
+          "fem_ids": [
+            11670,
+            1005
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "طبخ"
+          ],
+          "fem_pieces": [
+            "طبخ",
+            "##ت"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": false
+      },
+      "group": "ARA",
+      "tier": "ARA"
+    },
+    {
+      "masc": "نظف",
+      "fem": "نظفت",
+      "comp": "البيت",
+      "gloss": "cleaned the house",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            788,
+            198
+          ],
+          "fem_ids": [
+            788,
+            568
+          ],
+          "masc_ntok": 2,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "نظ",
+            "##ف"
+          ],
+          "fem_pieces": [
+            "نظ",
+            "##فت"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            3313,
+            1037
+          ],
+          "fem_ids": [
+            3313,
+            2209
+          ],
+          "masc_ntok": 2,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "نظ",
+            "##ف"
+          ],
+          "fem_pieces": [
+            "نظ",
+            "##فت"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "B"
+    },
+    {
+      "masc": "كسر",
+      "fem": "كسرت",
+      "comp": "الزجاج",
+      "gloss": "broke the glass",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            9793
+          ],
+          "fem_ids": [
+            45676
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "كسر"
+          ],
+          "fem_pieces": [
+            "كسرت"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            9128
+          ],
+          "fem_ids": [
+            29309
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "كسر"
+          ],
+          "fem_pieces": [
+            "كسرت"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "أغلق",
+      "fem": "أغلقت",
+      "comp": "النافذة",
+      "gloss": "closed the window",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            15191
+          ],
+          "fem_ids": [
+            17800
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "أغلق"
+          ],
+          "fem_pieces": [
+            "أغلقت"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            3545,
+            1941
+          ],
+          "fem_ids": [
+            3545,
+            7177
+          ],
+          "masc_ntok": 2,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "أغ",
+            "##لق"
+          ],
+          "fem_pieces": [
+            "أغ",
+            "##لقت"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "B"
+    },
+    {
+      "masc": "بدأ",
+      "fem": "بدأت",
+      "comp": "العمل",
+      "gloss": "started the work",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            2221
+          ],
+          "fem_ids": [
+            2171
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "بدأ"
+          ],
+          "fem_pieces": [
+            "بدأت"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            4272
+          ],
+          "fem_ids": [
+            6201
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "بدأ"
+          ],
+          "fem_pieces": [
+            "بدأت"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "رسم",
+      "fem": "رسمت",
+      "comp": "اللوحة",
+      "gloss": "drew the painting",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            1833
+          ],
+          "fem_ids": [
+            31078
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "رسم"
+          ],
+          "fem_pieces": [
+            "رسمت"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            4315
+          ],
+          "fem_ids": [
+            4315,
+            1005
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "رسم"
+          ],
+          "fem_pieces": [
+            "رسم",
+            "##ت"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": false
+      },
+      "group": "ARA",
+      "tier": "ARA"
+    },
+    {
+      "masc": "أخذ",
+      "fem": "أخذت",
+      "comp": "الدواء",
+      "gloss": "took the medicine",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            4172
+          ],
+          "fem_ids": [
+            11279
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "أخذ"
+          ],
+          "fem_pieces": [
+            "أخذت"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            6464
+          ],
+          "fem_ids": [
+            18639
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "أخذ"
+          ],
+          "fem_pieces": [
+            "أخذت"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "دفع",
+      "fem": "دفعت",
+      "comp": "الحساب",
+      "gloss": "paid the bill",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            2581
+          ],
+          "fem_ids": [
+            9865
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "دفع"
+          ],
+          "fem_pieces": [
+            "دفعت"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            5781
+          ],
+          "fem_ids": [
+            21191
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "دفع"
+          ],
+          "fem_pieces": [
+            "دفعت"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    }
+  ],
+  "subjects": [
+    {
+      "masc": "المحرر",
+      "fem": "المحررة",
+      "gloss": "editor",
+      "scan": true,
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            21029
+          ],
+          "fem_ids": [
+            22387
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "المحرر"
+          ],
+          "fem_pieces": [
+            "المحررة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            13947,
+            1017
+          ],
+          "fem_ids": [
+            13947,
+            2037
+          ],
+          "masc_ntok": 2,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "المحر",
+            "##ر"
+          ],
+          "fem_pieces": [
+            "المحر",
+            "##رة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "B"
+    },
+    {
+      "masc": "المترجم",
+      "fem": "المترجمة",
+      "gloss": "translator",
+      "scan": true,
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            27313
+          ],
+          "fem_ids": [
+            51864
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "المترجم"
+          ],
+          "fem_pieces": [
+            "المترجمة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            25273
+          ],
+          "fem_ids": [
+            23037
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "المترجم"
+          ],
+          "fem_pieces": [
+            "المترجمة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "المصور",
+      "fem": "المصورة",
+      "gloss": "photographer",
+      "scan": true,
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            20246
+          ],
+          "fem_ids": [
+            28752
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "المصور"
+          ],
+          "fem_pieces": [
+            "المصورة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            21488
+          ],
+          "fem_ids": [
+            11215
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "المصور"
+          ],
+          "fem_pieces": [
+            "المصورة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "المضيف",
+      "fem": "المضيفة",
+      "gloss": "host",
+      "scan": true,
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            22570
+          ],
+          "fem_ids": [
+            27485
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "المضيف"
+          ],
+          "fem_pieces": [
+            "المضيفة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            19584,
+            1037
+          ],
+          "fem_ids": [
+            19584,
+            2539
+          ],
+          "masc_ntok": 2,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "المضي",
+            "##ف"
+          ],
+          "fem_pieces": [
+            "المضي",
+            "##فة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "B"
+    },
+    {
+      "masc": "الشرطي",
+      "fem": "الشرطية",
+      "gloss": "police officer",
+      "scan": true,
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            28467
+          ],
+          "fem_ids": [
+            36405
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الشرطي"
+          ],
+          "fem_pieces": [
+            "الشرطية"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            18652,
+            1013
+          ],
+          "fem_ids": [
+            18652,
+            1910
+          ],
+          "masc_ntok": 2,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "الشرط",
+            "##ي"
+          ],
+          "fem_pieces": [
+            "الشرط",
+            "##ية"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": false,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "B"
+    },
+    {
+      "masc": "المبرمج",
+      "fem": "المبرمجة",
+      "gloss": "programmer",
+      "scan": true,
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            53526
+          ],
+          "fem_ids": [
+            56892
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "المبرمج"
+          ],
+          "fem_pieces": [
+            "المبرمجة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            23866,
+            1041
+          ],
+          "fem_ids": [
+            23866,
+            2608
+          ],
+          "masc_ntok": 2,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "المبرم",
+            "##ج"
+          ],
+          "fem_pieces": [
+            "المبرم",
+            "##جة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "B"
+    },
+    {
+      "masc": "الممثل",
+      "fem": "الممثلة",
+      "gloss": "actor",
+      "scan": true,
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            6126
+          ],
+          "fem_ids": [
+            11641
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الممثل"
+          ],
+          "fem_pieces": [
+            "الممثلة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            15771
+          ],
+          "fem_ids": [
+            22153
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الممثل"
+          ],
+          "fem_pieces": [
+            "الممثلة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "المطرب",
+      "fem": "المطربة",
+      "gloss": "singer",
+      "scan": true,
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            18810
+          ],
+          "fem_ids": [
+            21276
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "المطرب"
+          ],
+          "fem_pieces": [
+            "المطربة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            5810,
+            1045
+          ],
+          "fem_ids": [
+            5810,
+            2215
+          ],
+          "masc_ntok": 2,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "المطر",
+            "##ب"
+          ],
+          "fem_pieces": [
+            "المطر",
+            "##بة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "B"
+    },
+    {
+      "masc": "الإعلامي",
+      "fem": "الإعلامية",
+      "gloss": "media person",
+      "scan": true,
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            6557
+          ],
+          "fem_ids": [
+            5803
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الإعلامي"
+          ],
+          "fem_pieces": [
+            "الإعلامية"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            9566
+          ],
+          "fem_ids": [
+            10709
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الإعلامي"
+          ],
+          "fem_pieces": [
+            "الإعلامية"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": false,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "المتطوع",
+      "fem": "المتطوعة",
+      "gloss": "volunteer",
+      "scan": true,
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            4656,
+            510
+          ],
+          "fem_ids": [
+            4656,
+            836
+          ],
+          "masc_ntok": 2,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "المتط",
+            "##وع"
+          ],
+          "fem_pieces": [
+            "المتط",
+            "##وعة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            9437,
+            2095
+          ],
+          "fem_ids": [
+            9437,
+            3571
+          ],
+          "masc_ntok": 2,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "المتط",
+            "##وع"
+          ],
+          "fem_pieces": [
+            "المتط",
+            "##وعة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "B"
+    },
+    {
+      "masc": "المتحدث",
+      "fem": "المتحدثة",
+      "gloss": "spokesperson",
+      "scan": true,
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            3364
+          ],
+          "fem_ids": [
+            15572
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "المتحدث"
+          ],
+          "fem_pieces": [
+            "المتحدثة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            7397
+          ],
+          "fem_ids": [
+            27777
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "المتحدث"
+          ],
+          "fem_pieces": [
+            "المتحدثة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "المتخصص",
+      "fem": "المتخصصة",
+      "gloss": "specialist",
+      "scan": true,
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            9650
+          ],
+          "fem_ids": [
+            6270
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "المتخصص"
+          ],
+          "fem_pieces": [
+            "المتخصصة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            14044
+          ],
+          "fem_ids": [
+            9362
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "المتخصص"
+          ],
+          "fem_pieces": [
+            "المتخصصة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": false,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "المسؤول",
+      "fem": "المسؤولة",
+      "gloss": "official",
+      "scan": true,
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            1574
+          ],
+          "fem_ids": [
+            9688
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "المسؤول"
+          ],
+          "fem_pieces": [
+            "المسؤولة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            9042
+          ],
+          "fem_ids": [
+            22937
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "المسؤول"
+          ],
+          "fem_pieces": [
+            "المسؤولة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "المستخدم",
+      "fem": "المستخدمة",
+      "gloss": "user",
+      "scan": true,
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            8195
+          ],
+          "fem_ids": [
+            10000
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "المستخدم"
+          ],
+          "fem_pieces": [
+            "المستخدمة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            4924
+          ],
+          "fem_ids": [
+            17005
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "المستخدم"
+          ],
+          "fem_pieces": [
+            "المستخدمة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "المهاجر",
+      "fem": "المهاجرة",
+      "gloss": "migrant",
+      "scan": true,
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            44040
+          ],
+          "fem_ids": [
+            34165
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "المهاجر"
+          ],
+          "fem_pieces": [
+            "المهاجرة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            7267,
+            2391
+          ],
+          "fem_ids": [
+            7267,
+            5129
+          ],
+          "masc_ntok": 2,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "المها",
+            "##جر"
+          ],
+          "fem_pieces": [
+            "المها",
+            "##جرة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "B"
+    },
+    {
+      "masc": "المفوض",
+      "fem": "المفوضة",
+      "gloss": "commissioner",
+      "scan": true,
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            6920
+          ],
+          "fem_ids": [
+            46961
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "المفوض"
+          ],
+          "fem_pieces": [
+            "المفوضة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            3921,
+            2175
+          ],
+          "fem_ids": [
+            3921,
+            7759
+          ],
+          "masc_ntok": 2,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "المف",
+            "##وض"
+          ],
+          "fem_pieces": [
+            "المف",
+            "##وضة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "B"
+    },
+    {
+      "masc": "المؤيد",
+      "fem": "المؤيدة",
+      "gloss": "supporter",
+      "scan": true,
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            31082
+          ],
+          "fem_ids": [
+            25291
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "المؤيد"
+          ],
+          "fem_pieces": [
+            "المؤيدة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            2550,
+            1983
+          ],
+          "fem_ids": [
+            2550,
+            3168
+          ],
+          "masc_ntok": 2,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "المؤ",
+            "##يد"
+          ],
+          "fem_pieces": [
+            "المؤ",
+            "##يدة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "B"
+    },
+    {
+      "masc": "الحكم",
+      "fem": "الحكمة",
+      "gloss": "referee",
+      "scan": true,
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            1926
+          ],
+          "fem_ids": [
+            9158
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الحكم"
+          ],
+          "fem_pieces": [
+            "الحكمة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            4034
+          ],
+          "fem_ids": [
+            14619
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الحكم"
+          ],
+          "fem_pieces": [
+            "الحكمة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "المؤسس",
+      "fem": "المؤسسة",
+      "gloss": "founder",
+      "scan": true,
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            18326
+          ],
+          "fem_ids": [
+            2804
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "المؤسس"
+          ],
+          "fem_pieces": [
+            "المؤسسة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            26921
+          ],
+          "fem_ids": [
+            6951
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "المؤسس"
+          ],
+          "fem_pieces": [
+            "المؤسسة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": false,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "الرسام",
+      "fem": "الرسامة",
+      "gloss": "painter",
+      "scan": true,
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            24269
+          ],
+          "fem_ids": [
+            24269,
+            197
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "الرسام"
+          ],
+          "fem_pieces": [
+            "الرسام",
+            "##ة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            2833,
+            1921
+          ],
+          "fem_ids": [
+            2833,
+            3124
+          ],
+          "masc_ntok": 2,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "الرس",
+            "##ام"
+          ],
+          "fem_pieces": [
+            "الرس",
+            "##امة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": false,
+        "camelbert": true
+      },
+      "group": "CAMEL",
+      "tier": "CAMEL"
+    },
+    {
+      "masc": "التاجر",
+      "fem": "التاجرة",
+      "gloss": "merchant",
+      "scan": true,
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            24899
+          ],
+          "fem_ids": [
+            24899,
+            197
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "التاجر"
+          ],
+          "fem_pieces": [
+            "التاجر",
+            "##ة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            27193,
+            1017
+          ],
+          "fem_ids": [
+            27193,
+            2037
+          ],
+          "masc_ntok": 2,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "التاج",
+            "##ر"
+          ],
+          "fem_pieces": [
+            "التاج",
+            "##رة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": false,
+        "camelbert": true
+      },
+      "group": "CAMEL",
+      "tier": "CAMEL"
+    },
+    {
+      "masc": "الناقد",
+      "fem": "الناقدة",
+      "gloss": "critic",
+      "scan": true,
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            16730
+          ],
+          "fem_ids": [
+            16730,
+            197
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "الناقد"
+          ],
+          "fem_pieces": [
+            "الناقد",
+            "##ة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            2193,
+            2008
+          ],
+          "fem_ids": [
+            2193,
+            12712
+          ],
+          "masc_ntok": 2,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "النا",
+            "##قد"
+          ],
+          "fem_pieces": [
+            "النا",
+            "##قدة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": false,
+        "camelbert": true
+      },
+      "group": "CAMEL",
+      "tier": "CAMEL"
+    },
+    {
+      "masc": "المفتش",
+      "fem": "المفتشة",
+      "gloss": "inspector",
+      "scan": true,
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            34371
+          ],
+          "fem_ids": [
+            34371,
+            197
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "المفتش"
+          ],
+          "fem_pieces": [
+            "المفتش",
+            "##ة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            5285,
+            1034
+          ],
+          "fem_ids": [
+            5285,
+            3463
+          ],
+          "masc_ntok": 2,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "المفت",
+            "##ش"
+          ],
+          "fem_pieces": [
+            "المفت",
+            "##شة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": false,
+        "camelbert": true
+      },
+      "group": "CAMEL",
+      "tier": "CAMEL"
+    },
+    {
+      "masc": "الجراح",
+      "fem": "الجراحة",
+      "gloss": "surgeon",
+      "scan": true,
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            14797
+          ],
+          "fem_ids": [
+            17472
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الجراح"
+          ],
+          "fem_pieces": [
+            "الجراحة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            15033
+          ],
+          "fem_ids": [
+            18870
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الجراح"
+          ],
+          "fem_pieces": [
+            "الجراحة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": true,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "الحلاق",
+      "fem": "الحلاقة",
+      "gloss": "barber",
+      "scan": true,
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            51505
+          ],
+          "fem_ids": [
+            40793
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الحلاق"
+          ],
+          "fem_pieces": [
+            "الحلاقة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            6660,
+            2396
+          ],
+          "fem_ids": [
+            6660,
+            4072
+          ],
+          "masc_ntok": 2,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "الحل",
+            "##اق"
+          ],
+          "fem_pieces": [
+            "الحل",
+            "##اقة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": true,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "B"
+    },
+    {
+      "masc": "الصيدلي",
+      "fem": "الصيدلية",
+      "gloss": "pharmacist",
+      "scan": true,
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            49064
+          ],
+          "fem_ids": [
+            38956
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الصيدلي"
+          ],
+          "fem_pieces": [
+            "الصيدلية"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            7808,
+            1907
+          ],
+          "fem_ids": [
+            7808,
+            2082
+          ],
+          "masc_ntok": 2,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "الصيد",
+            "##لي"
+          ],
+          "fem_pieces": [
+            "الصيد",
+            "##لية"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": true,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "B"
+    },
+    {
+      "masc": "المساعد",
+      "fem": "المساعدة",
+      "gloss": "assistant",
+      "scan": true,
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            2629
+          ],
+          "fem_ids": [
+            6173
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "المساعد"
+          ],
+          "fem_pieces": [
+            "المساعدة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            7748
+          ],
+          "fem_ids": [
+            3661
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "المساعد"
+          ],
+          "fem_pieces": [
+            "المساعدة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": true,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "المعالج",
+      "fem": "المعالجة",
+      "gloss": "therapist",
+      "scan": true,
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            23310
+          ],
+          "fem_ids": [
+            13040
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "المعالج"
+          ],
+          "fem_pieces": [
+            "المعالجة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            14118
+          ],
+          "fem_ids": [
+            24231
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "المعالج"
+          ],
+          "fem_pieces": [
+            "المعالجة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": true,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "الملاكم",
+      "fem": "الملاكمة",
+      "gloss": "boxer",
+      "scan": true,
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            50338
+          ],
+          "fem_ids": [
+            34749
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الملاكم"
+          ],
+          "fem_pieces": [
+            "الملاكمة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            26834,
+            1015
+          ],
+          "fem_ids": [
+            26834,
+            2113
+          ],
+          "masc_ntok": 2,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "الملاك",
+            "##م"
+          ],
+          "fem_pieces": [
+            "الملاك",
+            "##مة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": true,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "B"
+    },
+    {
+      "masc": "المهرج",
+      "fem": "المهرجة",
+      "gloss": "clown",
+      "scan": true,
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            29762,
+            184
+          ],
+          "fem_ids": [
+            29762,
+            652
+          ],
+          "masc_ntok": 2,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "المهر",
+            "##ج"
+          ],
+          "fem_pieces": [
+            "المهر",
+            "##جة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            3100,
+            2155
+          ],
+          "fem_ids": [
+            3100,
+            16756
+          ],
+          "masc_ntok": 2,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "المه",
+            "##رج"
+          ],
+          "fem_pieces": [
+            "المه",
+            "##رجة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": true,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "B"
+    },
+    {
+      "masc": "الطالب",
+      "fem": "الطالبة",
+      "gloss": "student",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            5394
+          ],
+          "fem_ids": [
+            14633
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الطالب"
+          ],
+          "fem_pieces": [
+            "الطالبة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            7826
+          ],
+          "fem_ids": [
+            7826,
+            1043
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "الطالب"
+          ],
+          "fem_pieces": [
+            "الطالب",
+            "##ة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": false
+      },
+      "group": "ARA",
+      "tier": "ARA"
+    },
+    {
+      "masc": "المعلم",
+      "fem": "المعلمة",
+      "gloss": "teacher",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            6059
+          ],
+          "fem_ids": [
+            24653
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "المعلم"
+          ],
+          "fem_pieces": [
+            "المعلمة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            8648
+          ],
+          "fem_ids": [
+            8648,
+            1043
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "المعلم"
+          ],
+          "fem_pieces": [
+            "المعلم",
+            "##ة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": false
+      },
+      "group": "ARA",
+      "tier": "ARA"
+    },
+    {
+      "masc": "الطبيب",
+      "fem": "الطبيبة",
+      "gloss": "doctor",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            6149
+          ],
+          "fem_ids": [
+            37432
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الطبيب"
+          ],
+          "fem_pieces": [
+            "الطبيبة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            8976
+          ],
+          "fem_ids": [
+            8976,
+            1043
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "الطبيب"
+          ],
+          "fem_pieces": [
+            "الطبيب",
+            "##ة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": false
+      },
+      "group": "ARA",
+      "tier": "ARA"
+    },
+    {
+      "masc": "المهندس",
+      "fem": "المهندسة",
+      "gloss": "engineer",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            2828
+          ],
+          "fem_ids": [
+            37919
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "المهندس"
+          ],
+          "fem_pieces": [
+            "المهندسة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            7307
+          ],
+          "fem_ids": [
+            7307,
+            1043
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "المهندس"
+          ],
+          "fem_pieces": [
+            "المهندس",
+            "##ة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": false
+      },
+      "group": "ARA",
+      "tier": "ARA"
+    },
+    {
+      "masc": "الكاتب",
+      "fem": "الكاتبة",
+      "gloss": "writer",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            4376
+          ],
+          "fem_ids": [
+            15603
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الكاتب"
+          ],
+          "fem_pieces": [
+            "الكاتبة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            4884
+          ],
+          "fem_ids": [
+            4884,
+            1043
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "الكاتب"
+          ],
+          "fem_pieces": [
+            "الكاتب",
+            "##ة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": false
+      },
+      "group": "ARA",
+      "tier": "ARA"
+    },
+    {
+      "masc": "المدير",
+      "fem": "المديرة",
+      "gloss": "manager",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            2259
+          ],
+          "fem_ids": [
+            19221
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "المدير"
+          ],
+          "fem_pieces": [
+            "المديرة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            5294
+          ],
+          "fem_ids": [
+            5294,
+            1043
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "المدير"
+          ],
+          "fem_pieces": [
+            "المدير",
+            "##ة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": false
+      },
+      "group": "ARA",
+      "tier": "ARA"
+    },
+    {
+      "masc": "الممرض",
+      "fem": "الممرضة",
+      "gloss": "nurse",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            21162,
+            235
+          ],
+          "fem_ids": [
+            41073
+          ],
+          "masc_ntok": 2,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الممر",
+            "##ض"
+          ],
+          "fem_pieces": [
+            "الممرضة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            23097,
+            1027
+          ],
+          "fem_ids": [
+            23097,
+            3246
+          ],
+          "masc_ntok": 2,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "الممر",
+            "##ض"
+          ],
+          "fem_pieces": [
+            "الممر",
+            "##ضة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": false,
+        "camelbert": true
+      },
+      "group": "CAMEL",
+      "tier": "CAMEL"
+    },
+    {
+      "masc": "الموظف",
+      "fem": "الموظفة",
+      "gloss": "employee",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            3652
+          ],
+          "fem_ids": [
+            36226
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الموظف"
+          ],
+          "fem_pieces": [
+            "الموظفة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            17548
+          ],
+          "fem_ids": [
+            17548,
+            1043
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "الموظف"
+          ],
+          "fem_pieces": [
+            "الموظف",
+            "##ة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": false
+      },
+      "group": "ARA",
+      "tier": "ARA"
+    },
+    {
+      "masc": "الجار",
+      "fem": "الجارة",
+      "gloss": "neighbor",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            11420
+          ],
+          "fem_ids": [
+            53771
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الجار"
+          ],
+          "fem_pieces": [
+            "الجارة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            16005
+          ],
+          "fem_ids": [
+            16005,
+            1043
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "الجار"
+          ],
+          "fem_pieces": [
+            "الجار",
+            "##ة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": false
+      },
+      "group": "ARA",
+      "tier": "ARA"
+    },
+    {
+      "masc": "الصحفي",
+      "fem": "الصحفية",
+      "gloss": "journalist",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            7351
+          ],
+          "fem_ids": [
+            10535
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الصحفي"
+          ],
+          "fem_pieces": [
+            "الصحفية"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            6900
+          ],
+          "fem_ids": [
+            20210
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الصحفي"
+          ],
+          "fem_pieces": [
+            "الصحفية"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "المحامي",
+      "fem": "المحامية",
+      "gloss": "lawyer",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            8295
+          ],
+          "fem_ids": [
+            31146
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "المحامي"
+          ],
+          "fem_pieces": [
+            "المحامية"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            12716
+          ],
+          "fem_ids": [
+            12716,
+            1043
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "المحامي"
+          ],
+          "fem_pieces": [
+            "المحامي",
+            "##ة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": false
+      },
+      "group": "ARA",
+      "tier": "ARA"
+    },
+    {
+      "masc": "الفنان",
+      "fem": "الفنانة",
+      "gloss": "artist",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            2548
+          ],
+          "fem_ids": [
+            7705
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الفنان"
+          ],
+          "fem_pieces": [
+            "الفنانة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            4453
+          ],
+          "fem_ids": [
+            11944
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الفنان"
+          ],
+          "fem_pieces": [
+            "الفنانة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "الباحث",
+      "fem": "الباحثة",
+      "gloss": "researcher",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            4367
+          ],
+          "fem_ids": [
+            25183
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الباحث"
+          ],
+          "fem_pieces": [
+            "الباحثة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            7576
+          ],
+          "fem_ids": [
+            7576,
+            1043
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "الباحث"
+          ],
+          "fem_pieces": [
+            "الباحث",
+            "##ة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": false
+      },
+      "group": "ARA",
+      "tier": "ARA"
+    },
+    {
+      "masc": "الأستاذ",
+      "fem": "الأستاذة",
+      "gloss": "professor",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            4025
+          ],
+          "fem_ids": [
+            23238
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الأستاذ"
+          ],
+          "fem_pieces": [
+            "الأستاذة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            6483
+          ],
+          "fem_ids": [
+            6483,
+            1043
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "الأستاذ"
+          ],
+          "fem_pieces": [
+            "الأستاذ",
+            "##ة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": false
+      },
+      "group": "ARA",
+      "tier": "ARA"
+    },
+    {
+      "masc": "العامل",
+      "fem": "العاملة",
+      "gloss": "worker",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            8264
+          ],
+          "fem_ids": [
+            4442
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "العامل"
+          ],
+          "fem_pieces": [
+            "العاملة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            14597
+          ],
+          "fem_ids": [
+            9558
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "العامل"
+          ],
+          "fem_pieces": [
+            "العاملة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "البائع",
+      "fem": "البائعة",
+      "gloss": "seller",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            25848
+          ],
+          "fem_ids": [
+            25848,
+            197
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "البائع"
+          ],
+          "fem_pieces": [
+            "البائع",
+            "##ة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            22885
+          ],
+          "fem_ids": [
+            22885,
+            1043
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "البائع"
+          ],
+          "fem_pieces": [
+            "البائع",
+            "##ة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": false,
+        "camelbert": false
+      },
+      "group": "NONE",
+      "tier": "F"
+    },
+    {
+      "masc": "المسافر",
+      "fem": "المسافرة",
+      "gloss": "traveler",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            27396
+          ],
+          "fem_ids": [
+            27396,
+            197
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "المسافر"
+          ],
+          "fem_pieces": [
+            "المسافر",
+            "##ة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            15711
+          ],
+          "fem_ids": [
+            15711,
+            1043
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "المسافر"
+          ],
+          "fem_pieces": [
+            "المسافر",
+            "##ة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": false,
+        "camelbert": false
+      },
+      "group": "NONE",
+      "tier": "F"
+    },
+    {
+      "masc": "الزائر",
+      "fem": "الزائرة",
+      "gloss": "visitor",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            13977
+          ],
+          "fem_ids": [
+            13977,
+            197
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "الزائر"
+          ],
+          "fem_pieces": [
+            "الزائر",
+            "##ة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            12392
+          ],
+          "fem_ids": [
+            12392,
+            1043
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "الزائر"
+          ],
+          "fem_pieces": [
+            "الزائر",
+            "##ة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": false,
+        "camelbert": false
+      },
+      "group": "NONE",
+      "tier": "F"
+    },
+    {
+      "masc": "الضيف",
+      "fem": "الضيفة",
+      "gloss": "guest",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            15988
+          ],
+          "fem_ids": [
+            15988,
+            197
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "الضيف"
+          ],
+          "fem_pieces": [
+            "الضيف",
+            "##ة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            23624
+          ],
+          "fem_ids": [
+            23624,
+            1043
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "الضيف"
+          ],
+          "fem_pieces": [
+            "الضيف",
+            "##ة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": false,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": false,
+        "camelbert": false
+      },
+      "group": "NONE",
+      "tier": "F"
+    },
+    {
+      "masc": "السائق",
+      "fem": "السائقة",
+      "gloss": "driver",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            6872
+          ],
+          "fem_ids": [
+            6872,
+            197
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "السائق"
+          ],
+          "fem_pieces": [
+            "السائق",
+            "##ة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            15531
+          ],
+          "fem_ids": [
+            15531,
+            1043
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "السائق"
+          ],
+          "fem_pieces": [
+            "السائق",
+            "##ة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": false,
+        "camelbert": false
+      },
+      "group": "NONE",
+      "tier": "F"
+    },
+    {
+      "masc": "الرئيس",
+      "fem": "الرئيسة",
+      "gloss": "president",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            654
+          ],
+          "fem_ids": [
+            13138
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الرئيس"
+          ],
+          "fem_pieces": [
+            "الرئيسة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            2554
+          ],
+          "fem_ids": [
+            24363
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الرئيس"
+          ],
+          "fem_pieces": [
+            "الرئيسة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "الوزير",
+      "fem": "الوزيرة",
+      "gloss": "minister",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            2215
+          ],
+          "fem_ids": [
+            16004
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الوزير"
+          ],
+          "fem_pieces": [
+            "الوزيرة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            5581
+          ],
+          "fem_ids": [
+            5581,
+            1043
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "الوزير"
+          ],
+          "fem_pieces": [
+            "الوزير",
+            "##ة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": false
+      },
+      "group": "ARA",
+      "tier": "ARA"
+    },
+    {
+      "masc": "المريض",
+      "fem": "المريضة",
+      "gloss": "patient",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            6504
+          ],
+          "fem_ids": [
+            23588
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "المريض"
+          ],
+          "fem_pieces": [
+            "المريضة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            8647
+          ],
+          "fem_ids": [
+            8647,
+            1043
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "المريض"
+          ],
+          "fem_pieces": [
+            "المريض",
+            "##ة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": false
+      },
+      "group": "ARA",
+      "tier": "ARA"
+    },
+    {
+      "masc": "الطفل",
+      "fem": "الطفلة",
+      "gloss": "child",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            3646
+          ],
+          "fem_ids": [
+            13200
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الطفل"
+          ],
+          "fem_pieces": [
+            "الطفلة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            4685
+          ],
+          "fem_ids": [
+            26319
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الطفل"
+          ],
+          "fem_pieces": [
+            "الطفلة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "الجد",
+      "fem": "الجدة",
+      "gloss": "grandparent",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            3328
+          ],
+          "fem_ids": [
+            46861
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الجد"
+          ],
+          "fem_pieces": [
+            "الجدة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            6399
+          ],
+          "fem_ids": [
+            6399,
+            1043
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "الجد"
+          ],
+          "fem_pieces": [
+            "الجد",
+            "##ة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": false
+      },
+      "group": "ARA",
+      "tier": "ARA"
+    },
+    {
+      "masc": "الأمير",
+      "fem": "الأميرة",
+      "gloss": "prince/princess",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            976
+          ],
+          "fem_ids": [
+            12729
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الأمير"
+          ],
+          "fem_pieces": [
+            "الأميرة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            3707
+          ],
+          "fem_ids": [
+            26255
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الأمير"
+          ],
+          "fem_pieces": [
+            "الأميرة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "الملك",
+      "fem": "الملكة",
+      "gloss": "king/queen",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            1089
+          ],
+          "fem_ids": [
+            14941
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الملك"
+          ],
+          "fem_pieces": [
+            "الملكة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            2676
+          ],
+          "fem_ids": [
+            21902
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الملك"
+          ],
+          "fem_pieces": [
+            "الملكة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "الشاب",
+      "fem": "الشابة",
+      "gloss": "young person",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            4758
+          ],
+          "fem_ids": [
+            11697
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الشاب"
+          ],
+          "fem_pieces": [
+            "الشابة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            7915
+          ],
+          "fem_ids": [
+            22971
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الشاب"
+          ],
+          "fem_pieces": [
+            "الشابة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "الصديق",
+      "fem": "الصديقة",
+      "gloss": "friend",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            12307
+          ],
+          "fem_ids": [
+            20775
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الصديق"
+          ],
+          "fem_pieces": [
+            "الصديقة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            8432
+          ],
+          "fem_ids": [
+            8432,
+            1043
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "الصديق"
+          ],
+          "fem_pieces": [
+            "الصديق",
+            "##ة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": false
+      },
+      "group": "ARA",
+      "tier": "ARA"
+    },
+    {
+      "masc": "المخرج",
+      "fem": "المخرجة",
+      "gloss": "director",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            5898
+          ],
+          "fem_ids": [
+            32362
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "المخرج"
+          ],
+          "fem_pieces": [
+            "المخرجة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            12797
+          ],
+          "fem_ids": [
+            12797,
+            1043
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "المخرج"
+          ],
+          "fem_pieces": [
+            "المخرج",
+            "##ة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": false
+      },
+      "group": "ARA",
+      "tier": "ARA"
+    },
+    {
+      "masc": "المغني",
+      "fem": "المغنية",
+      "gloss": "singer",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            28001
+          ],
+          "fem_ids": [
+            28693
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "المغني"
+          ],
+          "fem_pieces": [
+            "المغنية"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            25095
+          ],
+          "fem_ids": [
+            25095,
+            1043
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "المغني"
+          ],
+          "fem_pieces": [
+            "المغني",
+            "##ة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": false
+      },
+      "group": "ARA",
+      "tier": "ARA"
+    },
+    {
+      "masc": "اللاعب",
+      "fem": "اللاعبة",
+      "gloss": "player",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            1321
+          ],
+          "fem_ids": [
+            44856
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "اللاعب"
+          ],
+          "fem_pieces": [
+            "اللاعبة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            4136
+          ],
+          "fem_ids": [
+            4136,
+            1043
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "اللاعب"
+          ],
+          "fem_pieces": [
+            "اللاعب",
+            "##ة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": false
+      },
+      "group": "ARA",
+      "tier": "ARA"
+    }
+  ],
+  "adjectives": [
+    {
+      "masc": "المجتهد",
+      "fem": "المجتهدة",
+      "gloss": "hardworking",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            59261
+          ],
+          "fem_ids": [
+            59261,
+            197
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "المجتهد"
+          ],
+          "fem_pieces": [
+            "المجتهد",
+            "##ة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            2265,
+            12815
+          ],
+          "fem_ids": [
+            2265,
+            12815,
+            1043
+          ],
+          "masc_ntok": 2,
+          "fem_ntok": 3,
+          "masc_pieces": [
+            "المج",
+            "##تهد"
+          ],
+          "fem_pieces": [
+            "المج",
+            "##تهد",
+            "##ة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": false,
+        "camelbert": false
+      },
+      "group": "NONE",
+      "tier": "F"
+    },
+    {
+      "masc": "الجديد",
+      "fem": "الجديدة",
+      "gloss": "new",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            1444
+          ],
+          "fem_ids": [
+            1594
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الجديد"
+          ],
+          "fem_pieces": [
+            "الجديدة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            3421
+          ],
+          "fem_ids": [
+            3895
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الجديد"
+          ],
+          "fem_pieces": [
+            "الجديدة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "الصغير",
+      "fem": "الصغيرة",
+      "gloss": "young/small",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            7473
+          ],
+          "fem_ids": [
+            4095
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الصغير"
+          ],
+          "fem_pieces": [
+            "الصغيرة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            7039
+          ],
+          "fem_ids": [
+            7727
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الصغير"
+          ],
+          "fem_pieces": [
+            "الصغيرة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "الكبير",
+      "fem": "الكبيرة",
+      "gloss": "old/big",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            2121
+          ],
+          "fem_ids": [
+            3235
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الكبير"
+          ],
+          "fem_pieces": [
+            "الكبيرة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            4377
+          ],
+          "fem_ids": [
+            7501
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الكبير"
+          ],
+          "fem_pieces": [
+            "الكبيرة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "الطويل",
+      "fem": "الطويلة",
+      "gloss": "tall",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            7527
+          ],
+          "fem_ids": [
+            8822
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الطويل"
+          ],
+          "fem_pieces": [
+            "الطويلة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            10261
+          ],
+          "fem_ids": [
+            17124
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الطويل"
+          ],
+          "fem_pieces": [
+            "الطويلة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "الجميل",
+      "fem": "الجميلة",
+      "gloss": "beautiful",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            6907
+          ],
+          "fem_ids": [
+            8843
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الجميل"
+          ],
+          "fem_pieces": [
+            "الجميلة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            5135
+          ],
+          "fem_ids": [
+            11434
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الجميل"
+          ],
+          "fem_pieces": [
+            "الجميلة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "الذكي",
+      "fem": "الذكية",
+      "gloss": "smart",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            25711
+          ],
+          "fem_ids": [
+            10759
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الذكي"
+          ],
+          "fem_pieces": [
+            "الذكية"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            20682
+          ],
+          "fem_ids": [
+            9973
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الذكي"
+          ],
+          "fem_pieces": [
+            "الذكية"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "النشيط",
+      "fem": "النشيطة",
+      "gloss": "active",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            10279,
+            1036
+          ],
+          "fem_ids": [
+            10279,
+            7146
+          ],
+          "masc_ntok": 2,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "النش",
+            "##يط"
+          ],
+          "fem_pieces": [
+            "النش",
+            "##يطة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            5784,
+            4161
+          ],
+          "fem_ids": [
+            5784,
+            4161,
+            1043
+          ],
+          "masc_ntok": 2,
+          "fem_ntok": 3,
+          "masc_pieces": [
+            "النش",
+            "##يط"
+          ],
+          "fem_pieces": [
+            "النش",
+            "##يط",
+            "##ة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": false
+      },
+      "group": "ARA",
+      "tier": "ARA"
+    },
+    {
+      "masc": "الشهير",
+      "fem": "الشهيرة",
+      "gloss": "famous",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            8253
+          ],
+          "fem_ids": [
+            9327
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الشهير"
+          ],
+          "fem_pieces": [
+            "الشهيرة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            12603
+          ],
+          "fem_ids": [
+            14759
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الشهير"
+          ],
+          "fem_pieces": [
+            "الشهيرة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "الماهر",
+      "fem": "الماهرة",
+      "gloss": "skilled",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            12407,
+            452
+          ],
+          "fem_ids": [
+            12407,
+            3478
+          ],
+          "masc_ntok": 2,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "الما",
+            "##هر"
+          ],
+          "fem_pieces": [
+            "الما",
+            "##هرة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            9373,
+            2121
+          ],
+          "fem_ids": [
+            9373,
+            21249
+          ],
+          "masc_ntok": 2,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "الما",
+            "##هر"
+          ],
+          "fem_pieces": [
+            "الما",
+            "##هرة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "B"
+    },
+    {
+      "masc": "السعيد",
+      "fem": "السعيدة",
+      "gloss": "happy",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            6731
+          ],
+          "fem_ids": [
+            26278
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "السعيد"
+          ],
+          "fem_pieces": [
+            "السعيدة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            9064
+          ],
+          "fem_ids": [
+            28061
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "السعيد"
+          ],
+          "fem_pieces": [
+            "السعيدة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "الحزين",
+      "fem": "الحزينة",
+      "gloss": "sad",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            46890
+          ],
+          "fem_ids": [
+            46904
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الحزين"
+          ],
+          "fem_pieces": [
+            "الحزينة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            23293
+          ],
+          "fem_ids": [
+            23293,
+            1043
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "الحزين"
+          ],
+          "fem_pieces": [
+            "الحزين",
+            "##ة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": false
+      },
+      "group": "ARA",
+      "tier": "ARA"
+    },
+    {
+      "masc": "المشهور",
+      "fem": "المشهورة",
+      "gloss": "well-known",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            25894
+          ],
+          "fem_ids": [
+            25742
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "المشهور"
+          ],
+          "fem_pieces": [
+            "المشهورة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            21186
+          ],
+          "fem_ids": [
+            28392
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "المشهور"
+          ],
+          "fem_pieces": [
+            "المشهورة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "المتعب",
+      "fem": "المتعبة",
+      "gloss": "tired",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            7819,
+            225
+          ],
+          "fem_ids": [
+            7819,
+            511
+          ],
+          "masc_ntok": 2,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "المتع",
+            "##ب"
+          ],
+          "fem_pieces": [
+            "المتع",
+            "##بة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            25943
+          ],
+          "fem_ids": [
+            25943,
+            1043
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "المتعب"
+          ],
+          "fem_pieces": [
+            "المتعب",
+            "##ة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": false
+      },
+      "group": "ARA",
+      "tier": "ARA"
+    },
+    {
+      "masc": "الهادئ",
+      "fem": "الهادئة",
+      "gloss": "calm",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            17063
+          ],
+          "fem_ids": [
+            34070
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الهادئ"
+          ],
+          "fem_pieces": [
+            "الهادئة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            23466
+          ],
+          "fem_ids": [
+            23466,
+            1043
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "الهادئ"
+          ],
+          "fem_pieces": [
+            "الهادئ",
+            "##ة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": false
+      },
+      "group": "ARA",
+      "tier": "ARA"
+    },
+    {
+      "masc": "الشجاع",
+      "fem": "الشجاعة",
+      "gloss": "brave",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            43643
+          ],
+          "fem_ids": [
+            22516
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الشجاع"
+          ],
+          "fem_pieces": [
+            "الشجاعة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            13514,
+            2000
+          ],
+          "fem_ids": [
+            13514,
+            2893
+          ],
+          "masc_ntok": 2,
+          "fem_ntok": 2,
+          "masc_pieces": [
+            "الشج",
+            "##اع"
+          ],
+          "fem_pieces": [
+            "الشج",
+            "##اعة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "B"
+    }
+  ],
+  "names": [
+    {
+      "masc": "محمد",
+      "fem": "فاطمة",
+      "gloss": "Mohammed/Fatima",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            582
+          ],
+          "fem_ids": [
+            6965
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "محمد"
+          ],
+          "fem_pieces": [
+            "فاطمة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            2202
+          ],
+          "fem_ids": [
+            11039
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "محمد"
+          ],
+          "fem_pieces": [
+            "فاطمة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": null,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "أحمد",
+      "fem": "مريم",
+      "gloss": "Ahmed/Mariam",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            1140
+          ],
+          "fem_ids": [
+            8544
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "أحمد"
+          ],
+          "fem_pieces": [
+            "مريم"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            3219
+          ],
+          "fem_ids": [
+            9167
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "أحمد"
+          ],
+          "fem_pieces": [
+            "مريم"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": null,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "علي",
+      "fem": "زينب",
+      "gloss": "Ali/Zainab",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            485
+          ],
+          "fem_ids": [
+            12399
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "علي"
+          ],
+          "fem_pieces": [
+            "زينب"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            1958
+          ],
+          "fem_ids": [
+            14626
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "علي"
+          ],
+          "fem_pieces": [
+            "زينب"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": null,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "عمر",
+      "fem": "سارة",
+      "gloss": "Omar/Sara",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            1686
+          ],
+          "fem_ids": [
+            10439
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "عمر"
+          ],
+          "fem_pieces": [
+            "سارة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            2852
+          ],
+          "fem_ids": [
+            16914
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "عمر"
+          ],
+          "fem_pieces": [
+            "سارة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": null,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "خالد",
+      "fem": "ليلى",
+      "gloss": "Khaled/Layla",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            1645
+          ],
+          "fem_ids": [
+            10647
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "خالد"
+          ],
+          "fem_pieces": [
+            "ليلى"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            3627
+          ],
+          "fem_ids": [
+            18041
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "خالد"
+          ],
+          "fem_pieces": [
+            "ليلى"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": null,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "حسن",
+      "fem": "هدى",
+      "gloss": "Hassan/Huda",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            1556
+          ],
+          "fem_ids": [
+            13576
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "حسن"
+          ],
+          "fem_pieces": [
+            "هدى"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            3314
+          ],
+          "fem_ids": [
+            18621
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "حسن"
+          ],
+          "fem_pieces": [
+            "هدى"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": null,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "إبراهيم",
+      "fem": "عائشة",
+      "gloss": "Ibrahim/Aisha",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            2618
+          ],
+          "fem_ids": [
+            12237
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "إبراهيم"
+          ],
+          "fem_pieces": [
+            "عائشة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            4880
+          ],
+          "fem_ids": [
+            10775
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "إبراهيم"
+          ],
+          "fem_pieces": [
+            "عائشة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": null,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "سعيد",
+      "fem": "سلمى",
+      "gloss": "Saeed/Salma",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            2140
+          ],
+          "fem_ids": [
+            21118
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "سعيد"
+          ],
+          "fem_pieces": [
+            "سلمى"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            3664
+          ],
+          "fem_ids": [
+            28452
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "سعيد"
+          ],
+          "fem_pieces": [
+            "سلمى"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": null,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "يوسف",
+      "fem": "هند",
+      "gloss": "Youssef/Hind",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            2328
+          ],
+          "fem_ids": [
+            6895
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "يوسف"
+          ],
+          "fem_pieces": [
+            "هند"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            4307
+          ],
+          "fem_ids": [
+            6487
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "يوسف"
+          ],
+          "fem_pieces": [
+            "هند"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": null,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "كريم",
+      "fem": "رنا",
+      "gloss": "Karim/Rana",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            7249
+          ],
+          "fem_ids": [
+            32610
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "كريم"
+          ],
+          "fem_pieces": [
+            "رنا"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            5874
+          ],
+          "fem_ids": [
+            23844
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "كريم"
+          ],
+          "fem_pieces": [
+            "رنا"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": null,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    }
+  ],
+  "attractors": [
+    {
+      "masc": "الفنان",
+      "fem": "الفنانة",
+      "prep": "مع",
+      "gloss": "with the artist",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            2548
+          ],
+          "fem_ids": [
+            7705
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الفنان"
+          ],
+          "fem_pieces": [
+            "الفنانة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            4453
+          ],
+          "fem_ids": [
+            11944
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الفنان"
+          ],
+          "fem_pieces": [
+            "الفنانة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "العامل",
+      "fem": "العاملة",
+      "prep": "مع",
+      "gloss": "with the worker",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            8264
+          ],
+          "fem_ids": [
+            4442
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "العامل"
+          ],
+          "fem_pieces": [
+            "العاملة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            14597
+          ],
+          "fem_ids": [
+            9558
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "العامل"
+          ],
+          "fem_pieces": [
+            "العاملة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "الصحفي",
+      "fem": "الصحفية",
+      "prep": "مع",
+      "gloss": "with the journalist",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            7351
+          ],
+          "fem_ids": [
+            10535
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الصحفي"
+          ],
+          "fem_pieces": [
+            "الصحفية"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            6900
+          ],
+          "fem_ids": [
+            20210
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الصحفي"
+          ],
+          "fem_pieces": [
+            "الصحفية"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "الطفل",
+      "fem": "الطفلة",
+      "prep": "مع",
+      "gloss": "with the child",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            3646
+          ],
+          "fem_ids": [
+            13200
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الطفل"
+          ],
+          "fem_pieces": [
+            "الطفلة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            4685
+          ],
+          "fem_ids": [
+            26319
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الطفل"
+          ],
+          "fem_pieces": [
+            "الطفلة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "الشاب",
+      "fem": "الشابة",
+      "prep": "مع",
+      "gloss": "with the young person",
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            4758
+          ],
+          "fem_ids": [
+            11697
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الشاب"
+          ],
+          "fem_pieces": [
+            "الشابة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            7915
+          ],
+          "fem_ids": [
+            22971
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "الشاب"
+          ],
+          "fem_pieces": [
+            "الشابة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": true,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "محمد",
+      "fem": "فاطمة",
+      "prep": "مع",
+      "gloss": "with Mohammed/Fatima",
+      "is_name": true,
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            582
+          ],
+          "fem_ids": [
+            6965
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "محمد"
+          ],
+          "fem_pieces": [
+            "فاطمة"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            2202
+          ],
+          "fem_ids": [
+            11039
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "محمد"
+          ],
+          "fem_pieces": [
+            "فاطمة"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": null,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "أحمد",
+      "fem": "مريم",
+      "prep": "مع",
+      "gloss": "with Ahmed/Mariam",
+      "is_name": true,
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            1140
+          ],
+          "fem_ids": [
+            8544
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "أحمد"
+          ],
+          "fem_pieces": [
+            "مريم"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            3219
+          ],
+          "fem_ids": [
+            9167
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "أحمد"
+          ],
+          "fem_pieces": [
+            "مريم"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": null,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    },
+    {
+      "masc": "خالد",
+      "fem": "ليلى",
+      "prep": "مع",
+      "gloss": "with Khaled/Layla",
+      "is_name": true,
+      "tok": {
+        "arabert": {
+          "masc_ids": [
+            1645
+          ],
+          "fem_ids": [
+            10647
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "خالد"
+          ],
+          "fem_pieces": [
+            "ليلى"
+          ]
+        },
+        "camelbert": {
+          "masc_ids": [
+            3627
+          ],
+          "fem_ids": [
+            18041
+          ],
+          "masc_ntok": 1,
+          "fem_ntok": 1,
+          "masc_pieces": [
+            "خالد"
+          ],
+          "fem_pieces": [
+            "ليلى"
+          ]
+        }
+      },
+      "context_ok": true,
+      "morph_ok": null,
+      "homograph_ok": null,
+      "aligned": {
+        "arabert": true,
+        "camelbert": true
+      },
+      "group": "BOTH",
+      "tier": "A"
+    }
+  ],
+  "neutral_modifiers": [
+    {
+      "text": "في المكتب",
+      "kind": "pp_loc",
+      "noun_gender": "m",
+      "gloss": "at the office"
+    },
+    {
+      "text": "في المطار",
+      "kind": "pp_loc",
+      "noun_gender": "m",
+      "gloss": "at the airport"
+    },
+    {
+      "text": "في الجامعة",
+      "kind": "pp_loc",
+      "noun_gender": "f",
+      "gloss": "at the university"
+    },
+    {
+      "text": "في المدينة",
+      "kind": "pp_loc",
+      "noun_gender": "f",
+      "gloss": "in the city"
+    },
+    {
+      "text": "في الصباح",
+      "kind": "pp_temp",
+      "noun_gender": "m",
+      "gloss": "in the morning"
+    },
+    {
+      "text": "في المساء",
+      "kind": "pp_temp",
+      "noun_gender": "m",
+      "gloss": "in the evening"
+    },
+    {
+      "text": "بعد الرحلة",
+      "kind": "pp_temp",
+      "noun_gender": "f",
+      "gloss": "after the trip"
+    },
+    {
+      "text": "قبل المغادرة",
+      "kind": "pp_temp",
+      "noun_gender": "f",
+      "gloss": "before departure"
+    },
+    {
+      "text": "أمس",
+      "kind": "adv",
+      "noun_gender": "none",
+      "gloss": "yesterday"
+    },
+    {
+      "text": "بهدوء",
+      "kind": "adv",
+      "noun_gender": "m",
+      "gloss": "calmly"
+    },
+    {
+      "text": "بسرعة",
+      "kind": "adv",
+      "noun_gender": "f",
+      "gloss": "quickly"
+    },
+    {
+      "text": "دون تردد",
+      "kind": "adv",
+      "noun_gender": "m",
+      "gloss": "without hesitation"
+    }
+  ],
+  "attractor_preps": [
+    "مع",
+    "أمام",
+    "بجوار"
+  ]
+}

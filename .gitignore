@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+models/
+data/padt/*.conllu
+*.pdf
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+.pytest_cache/
+.ruff_cache/
+paper/
